@@ -10,9 +10,9 @@ Modern data-driven research increasingly depends on quantitative analysis and re
 
 Currently, the conduct of sharing research products relies heavily on individual researchers, and the regulations of data sharing are enforced by these individuals and research institutions in a variety of ways. However, a rising body of evidence in recent years reveals reproducibility issues across many scientific disciplines, i.e. published results frequently contain studies that cannot be duplicated due to a lack of documentation, code, data or metadata. 
 
-This study analyzed 480 publications across eight journals from 2016 to 2021 to quantify code and data availability of the publications and assess the completeness of the metadata reported in publications and online repositories across 127 studies over 18,559 samples across six therapeutic fields. The results indicate that only 17% of the scientific manuscripts published in prominent biomedical journals share raw data and 31% of the papers share code and the overall completeness of  the metadata in original publication is 71.8% and in public repositories is 48.6%. This research aims to analyze the availability of research products and help to build a transparent, reproducible data-driven environment in biomedical research.
+This study analyzed 480 publications across eight journals from 2016 to 2021 to quantify code and data availability of the publications and assess the completeness of the metadata reported in publications and online repositories across 127 studies over 18,559 samples across six therapeutic fields.This research aims to analyze the availability of research products and help to build a transparent, reproducible data-driven environment in biomedical research.
 
-[How to use this code]
+[How to use the files]
 
 There are three chapters in my thesis,
 which are Availability of data accompanying scientific publication, 
