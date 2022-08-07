@@ -1,4 +1,4 @@
-#msc-thesis-Ruiwei-Guo
+
 
 ## Acknowledgements
 First and foremost, I would like to greatly acknowledge the help and support of my supervisor, Dr. Serghei Mangul, who has offered me valuable suggestions in academic studies and provided me with valuable guidance in every stage of the writing of this thesis. Also, I shall extend my gratitude to my teamates and friends in Serghei's lab, thanks for their help, kindness and time spent together. Without Dr. Serghei’s enlightening instruction, and my teamates' help, I would not have completed my thesis.
