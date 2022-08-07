@@ -1,0 +1,515 @@
+PMC_ID,PMC_Year,Journal,Article Title,Secondary analysis,Data availability statement (yes/no),Data availability (yes/no),"If Data availability = yes, where do they share data? (SRA/GEO/other)","If other database, specifiy which one",Code availability statement (Yes/No),Code availability (Yes/No (reason)),Code availability (Yes/No),"If Code availability = yes,  What kind of code do they share?","If Code availability = yes, where do they share code (supplementary/ GitHub/ other)","If Code availability = yes, do they share the code as notebook or R markdown file (.Rmd)? (yes/no)","If yes, notebook/Rmd","If yes, single/ multiple",Summary data (yes/ no/ partial),Number of citations,Gender of the PI,"Experience of PI/ Last author (Check their profile or webpage to see whether they are an associate/ assistant/ professor/ professor emiretus, etc)",PI/ last author's training background - CS/ Bioinformatics/ Other,PI (last author's) education level - PhD/PostDoc/ Master's etc,First author's education level,First author's training background (CS/ Bioinformatics/ Other)
+PMC5048069,2016,Bioinformatics,PEP_scaffolder: using (homologous) proteins to scaffold genomes,no,no,no,,,Yes,No (Link Expired),No,Software,Other(Website),Can't tell,Can't tell,Can't tell,Can't tell,11,,Assistant Professor,,,,
+PMC5254078,2016,Bioinformatics,FoldAtlas: a repository for genome-wide RNA structure probing data,no,yes,yes,SRA,,Yes,Yes,Yes,Database,GitHub,No,,,No,12,Female,Group Leader,Other ,PostDoc,,
+PMC4908329,2016,Bioinformatics,A convex optimization approach for identification of human tissue-specific interactomes,yes,,,,,Yes,No (Link Expired),No,Pipeline,Other(Website),Can't tell,Can't tell,Can't tell,Can't tell,12,Male,Professor ,CS,Phd,Phd,CS
+PMC4908319,2016,Bioinformatics,Privacy-preserving microbiome analysis using secure computation,yes,,,,,Yes,No (Link Expired),No,Software,Other(Website),Can't tell,Can't tell,Can't tell,Can't tell,18,Male,Professor,Cs,Phd,,
+PMC4920110,2016,Bioinformatics,Phasing for medical sequencing using rare variants and large haplotype reference panels,yes,,,,,Yes,No (Link Expired),No,Software,Other(Website),Can't tell,Can't tell,Can't tell,Can't tell,19,Male,Director,Other,Phd,Phd,Other Machine Learning
+PMC4908351,2016,Bioinformatics,Genome assembly from synthetic long read clouds,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,30,Male,Emeritus Professor,CS,Phd,Post Doc,CS
+PMC4908349,2016,Bioinformatics,RNAiFold2T: Constraint Programming design of thermo-IRES switches,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,8,Male,Professor,"Other, courtesy Professor of Computer Science",Phd,Phd,CS and Bioinformatics
+PMC5351549,2016,Bioinformatics,Training alignment parameters for arbitrary sequencers with LAST-TRAIN,yes,,,,,Yes,Yes,Yes,Tool,Gitlab,No,,,,46,Male,Professor,Bioinformatics,PostDoc,Phd,Bioinformatics
+PMC5018371,2016,Bioinformatics,TarPmiR: a new approach for microRNA target site prediction,yes,,,,,Yes,Yes,Yes,Software,Other(Website),No,,,No,98,,,,,,
+PMC4908323,2016,Bioinformatics,Isoform-level ribosome occupancy estimation guided by transcript abundance with Ribomap,yes,,,,,Yes,Yes,Yes,Software,"Other(Website), GitHub",No,,,No,31,Male,Professor,CS,Phd,,CS
+PMC5073995,2016,BMC_Bioinformatics,Successful classification of cocaine dependence using brain imaging: a generalizable machine learning approach,no,no,no,,,No,No,No,,,,,,No,20,Male,Emeritus  Professor,Other,MD,Doctor,CS
+PMC5123308,2016,BMC_Bioinformatics,An analytical upper bound on the number of loci required for all splits of a species tree to appear in a set of gene trees,no,no,no,,,No,No,No,,,,,,No,3,Male,Professor,Other Computational Biology,PostDoc,Phd,Bioinformatics
+PMC5139036,2016,BMC_Bioinformatics,Integrating mean and variance heterogeneities to identify differentially expressed genes,yes,,,,,No,No,No,,,,,,No,3,Male,Assistant Professor ,Other,PostDoc,Phd,Biostatistics
+PMC4826549,2016,BMC_Bioinformatics,Structured feature selection using coordinate descent optimization,yes,,,,,No,No,No,,,,,,No,27,Male,Professor,,,Phd,CS
+PMC5259871,2016,BMC_Bioinformatics,Dynamic epigenetic mode analysis using spatial temporal clustering,yes,,,,,No,No,No,,,,,,No,3,,,,,,
+PMC5075203,2016,BMC_Bioinformatics,Subcellular protein expression models for microsatellite instability in colorectal adenocarcinoma tissue images,yes,,,,,Yes,No (Available upon request),No,,,,,,No,1,Male,Professor,CS,Phd,Phd,
+PMC5259813,2016,BMC_Bioinformatics,"Prediction of HIV-1 protease cleavage site using a combination of sequence, structural, and physicochemical features",yes,,,,,No,No (Available upon request),No,,,,,,Can't tell,23,Female,Associate Professor,CS and Bioinformatics,Phd,Phd,Biomedical Informatics
+PMC5043639,2016,BMC_Bioinformatics,Representing and decomposing genomic structural variants as balanced integer flows on sequence graphs,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,7,Male,Professor ,CS,Phd,Post Doc,Bioinformatics
+PMC5123383,2016,BMC_Bioinformatics,A fuzzy method for RNA-Seq differential expression analysis in presence of multireads,yes,,,,,Yes,Yes,Yes,Pipeline,Other(Website),No,,,No,16,Male,Researcher,Bioinformatics and Biological Science,NM,Phd,CS
+PMC5020541,2016,BMC_Bioinformatics,CellTree: an R/bioconductor package to infer the hierarchical structure of cell populations from single-cell RNA-seq data,yes,,,,,Yes,Yes,Yes,Package,Others (Website),No,,,Yes,48,Male ,Professor,Engineering,Phd,Phd,Bioinformatics
+PMC4831157,2016,Genome_Biol,Single-cell analysis of long non-coding RNAs in the developing human neocortex,no,no,no,,,No,No,No,,,,,,No,264,Male,Professor,Other Medicine,MD,MD,Medicine
+PMC5131449,2016,Genome_Biol,Systematic analysis of chromatin interactions at disease associated loci links novel candidate genes to inflammatory bowel disease,no,yes,yes,GEO,,No,No,No,,,,,,No,34,Male,Associate Professor,Other Medicine,MD,,
+PMC5059998,2016,Genome_Biol,Recurrent evolution of heat-responsiveness in Brassicaceae COPIA elements,no,yes,yes,GEO,,Yes,Yes,Yes,Protocol,GitHub,No,,,No,54,Male,Associate Professor,Other ,Phd,Phd,Other
+PMC5032245,2016,Genome_Biol,Age-related accrual of methylomic variability is linked to fundamental ageing mechanisms,no,yes,yes,other,EGA,No,Yes,Yes,Package,GitHub,Yes,Rmd,multiple,No,80,Male,Professor,Other,PostDoc,Phd,Other
+PMC4934005,2016,Genome_Biol,Single-cell genome-wide bisulfite sequencing uncovers extensive heterogeneity in the mouse liver methylome,yes,,,,,No,No,No,,,,,,No,92,Male,Professor,Other,Phd,,
+PMC5006368,2016,Genome_Biol,Topoisomerase II beta interacts with cohesin and CTCF at topological domain borders,yes,,,,,No,No,No,,,,,,No,166,,,,,,
+PMC4734871,2016,Genome_Biol,External signals shape the epigenome,yes,,,,,No,No,No,,,,,,No,1,,,,,,
+PMC4823857,2016,Genome_Biol,Design and computational analysis of single-cell RNA-sequencing experiments,yes,,,,,No,No,No,,,,,,No,384,Female,Professor,Other Mathematics,Phd,Phd,Other Statistics
+PMC4964047,2016,Genome_Biol,Selected heterozygosity at cis-regulatory sequences increases the expression homogeneity of a cell population in humans,yes,,,,,No,No,No,,,,,,No,7,Male,Assistant Professor,"Other , Biological Sciences",Phd,Phd,Bioinformatics
+PMC5054559,2016,Genome_Biol,Prediction of gestational age based on genome-wide differentially methylated regions,yes,,,,,Yes,Yes,Yes,Package,Zenodo,Yes,Rmd,single,No,71,Male,Professor,Other Epidemiology,Phd,Phd,Bioinformatics
+PMC5048656,2016,Genome_Med,Transmission of methicillin-resistant Staphylococcus aureus in long-term care facilities and their related healthcare networks.,no,yes,yes,other,ENA,No,No,No,,,,,,No,33,Female,Professor,Other ,Phd,Phd,Genomics
+PMC4752745,2016,Genome_Med,Identifying the effect of patient sharing on between-hospital genetic differentiation of methicillin-resistant Staphylococcus aureus,no,yes,yes,other,ENA,No,No,No,,,,,,No,20,Male,Professor,Other,Phd,Phd,Other 
+PMC5015242,2016,Genome_Med,Epigenomic and metabolic responses of hypothalamic POMC neurons to gestational nicotine exposure in adult offspring,no,yes,yes,SRA,,No,No,No,,,,,,No,12,Male,Professor,Other,Phd,,
+PMC5180407,2016,Genome_Med,Implementation of next generation sequencing into pediatric hematology-oncology practice: moving beyond actionable alterations,no,yes,yes,other, cBioPortal,No,No,No,,,,,,No,109,Male,,Other,MD,EdD,Other
+PMC4797182,2016,Genome_Med,Exploring the implications of distinct mutational signatures and mutation rates in aging and cancer,yes,,,,,No,No,No,,,,,,No,15,Male,Professor,Other,Phd,,
+PMC4835935,2016,Genome_Med,Microbiome mediation of infections in the cancer setting,yes,,,,,No,No,No,,,,,,No,59,Male,Professor,Other,MD,MD,Other
+PMC4992240,2016,Genome_Med,Migraine genetics: from genome-wide association studies to translational insights,yes,,,,,No,No,No,,,,,,No,22,Male,Associate Member,Other,MD and Phd,Phd,Computational Biology
+PMC5041586,2016,Genome_Med,qKAT: a high-throughput qPCR method for KIR gene copy number and haplotype determination,yes,,,,,No,No (Available upon request),No,,,,,,Can't tell,16,,,,,,
+PMC4872356,2016,Genome_Med,An adaptive association test for microbiome data,yes,,,,,Yes,Yes,Yes,Package,GitHub,No,,,No,58,Male,Professor,CS,Phd,Phd ,Biostatistics
+PMC4784276,2016,Genome_Med,CoINcIDE: A framework for discovery of patient subtypes across multiple datasets,yes,,,,,No,Yes,Yes,Package,GitHub,No,,,Yes,25,Male,Associate Professor,Bioinformatics,Phd,Phd ,Biomedical Informatics
+PMC4942401,2016,Nat_Biotechnol,A bright cyan-excitable orange fluorescent protein facilitates dual-emission microscopy and enhances bioluminescence imaging in vivo,no,no,no,,,No,No,No,,,,,,No,149,Male,Associate Professor,Other,MD,,
+PMC4786489,2016,Nat_Biotechnol,A dual AAV system enables the Cas9-mediated correction of a metabolic liver disease in newborn mice,no,no,no,,,No,No,No,,,,,,No,424,Male,Professor,Other,MD,,
+PMC5225075,2016,Nat_Biotechnol,Multiplex gene editing by CRISPR-Cpf1 through autonomous processing of a single crRNA array,no,no,no,,,No,No,No,,,,,,No,572,Male,Associate Professor,Other,Phd,Phd,Other
+PMC5143225,2016,Nat_Biotechnol,Modeling of RNA-seq fragment sequence bias reduces systematic errors in transcript abundance estimation,no,no,no,,,No,Yes,Yes,Pipeline,GitHub,Yes,Rmd,Single,Yes,100,Male,Professor,Other,Phd,Phd,Computational Biology
+PMC4980997,2016,Nat_Biotechnol,A recellularized human colon model identifies cancer driver genes,no,no,yes,SRA,,No,No,No,,,,,,No,69,Male,Professor,Other,Phd,Phd,Other
+PMC5125825,2016,Nat_Biotechnol,Genome-scale high-resolution mapping of activating and repressive nucleotides in regulatory regions,no,no,yes,other,GSE,No,Yes,Yes,Pipeline,GitHub,No,,,No,109,Male,Professor,CS,Phd,Phd,CS
+PMC5101133,2016,Nat_Biotechnol,Mitochondrial protein functions elucidated by multi-omic mass spectrometry profiling,no,no,yes,other,Excel Sheets,No,Yes,Yes,Analytical,GitHub,No,,,Yes,90,Male,Professor,Other,PostDoc,MD,Other
+PMC5513182,2016,Nat_Biotechnol,Blood pressure regulation by CD4+ lymphocytes expressing choline acetyltransferase,yes,,,,,No,No (Available upon request),No,,,,,,No,44,Male,Professor,Other,MD,MD and Phd,Other
+PMC4900928,2016,Nat_Biotechnol,Profiling of engineering hotspots identifies an allosteric CRISPR-Cas9 switch,yes,,,,,No,Yes,Yes,Analytical,GitHub,No,,,No,154,Male,Associate Professor,CS,Phd,Phd ,Other
+PMC4900911,2016,Nat_Biotechnol,Systematic comparison of CRISPR-Cas9 and RNAi screens for essential genes,yes,,,,,No,Yes,Yes,Pipeline,Other (Bitbucket),No,,,Yes,277,Male,Associate Professor,Other,PostDoc,Phd,Other
+PMC4963286,2016,Nat_Genet,"Genome-wide association study of behavioral, physiological and gene expression traits in commercially available outbred CFW mice",no,no,yes,other,Excel Sheets,No,No,No,,,,,,No,92,Male,Professor,Other,Phd,Phd,Other
+PMC5207801,2016,Nat_Genet,Detection and interpretation of shared genetic influences on 42 human traits,yes,,,,,No,No,No,,,,,,No,813,Male,Research Fellow,Other,Phd,Phd,Human Genetics
+PMC4811732,2016,Nat_Genet,"Mutations in nuclear pore genes NUP93, NUP205, and XPO5 cause steroid resistant nephrotic syndrome",yes,,,,,No,No,No,,,,,,No,117,Male,Professor,Other,MD,,
+PMC5042848,2016,Nat_Genet,Noncoding somatic and inherited single-nucleotide variants converge to promote ESR1 expression in breast cancer,yes,,,,,No,No,No,,,,,,No,72,Male,Professor,Other,PostDoc,Phd,Other
+PMC5040167,2016,Nat_Genet,Network-based inference of protein activity helps functionalize the genetic landscape of cancer,yes,,,,,No,No,No,,,,,,No,12,Male,Chair,Other,Phd,Phd,Other
+PMC5238942,2016,Nat_Genet,Mycobacterium tuberculosis Lineage 4 comprises globally distributed and geographically restricted sublineages,yes,,,,,No,No,No,,,,,,No,241,Male,Associate Professor,Other,PostDoc,Phd,CS
+PMC5042855,2016,Nat_Genet,Transcription factors mediate condensin recruitment and global chromosomal organization in fission yeast,yes,,,,,No,No,No,,,,,,No,58,Male,Professor,Other,Phd,Phd,Other
+PMC5042863,2016,Nat_Genet,"The genetics of blood pressure regulation and its target organs from association studies in 342,415 individuals",yes,,,,,No,No,No,,,,,,No,308,Female,Professor,Other,PostDoc,,
+PMC5131845,2016,Nat_Genet,Genome-wide association analyses identify new susceptibility loci for oral cavity and pharyngeal cancer,yes,,,,,No,No,No,,,,,,No,99,Male,Other,Other,Phd,Phd,Other
+PMC4817234,2016,Nat_Genet,A multiple phenotype imputation method for genetic studies,yes,,,,,No,Yes,Yes,Pipeline,Other(Website),No,,,No,78,Male,Professor,Other Statistics,Phd,Phd,Other Statistics
+PMC5289555,2016,Nat_Methods,Multi-domain structure and correlated dynamics determined by self-consistent FRET networks,no,no,yes,other,supplementary file,No,No,No,,,,,,,94,Male,Professor,Other ,PostDoc,PostDoc,Other
+PMC5423094,2016,Nat_Methods,RESA identifies mRNA regulatory sequences with high resolution,no,yes,yes,other,SRP,No,Yes,Yes,Pipeline,GitHub,No,,,No,29,Male,Professor,Other,PostDoc,Phd,Other Genetics
+PMC5330809,2016,Nat_Methods,Massively multiplex single-cell Hi-C,no,yes,yes,GEO,,No,Yes,Yes,Analytical,GitHub,No,,,Yes,356,Male,Professor,Other-Genetics,MD-Phd,Phd,Other
+PMC4772672,2016,Nat_Methods,Characterizing transcriptional heterogeneity through pathway and gene set overdispersion analysis,no,yes,yes,GEO,,No,Yes,Yes,Package,GitHub,Yes,Rmd,Multiple,No,296,Male,Associate Professor,Other Computational Biology and Genomics,PostDoc,PostDoc,Bioinformatics
+PMC4854847,2016,Nat_Methods,Inferring causal molecular networks: empirical assessment through a community-based effort,yes,,,,,No,No,No,,,,,,No,189,Male,Head,Other Machine Learning,PostDoc,Phd,Statistics and Complexity Science
+PMC5199618,2016,Nat_Methods,TACO produces robust multi-sample transcriptome assemblies from RNA-seq,yes,,,,,Yes,Yes,Yes,Tool,GitHub,No,,,No,86,Male,,,MD-Phd,MD-Phd,Others
+PMC5008461,2016,Nat_Methods,TRIC: an automated alignment strategy for reproducible protein quantification in targeted proteomics,yes,,,,,No,Yes,Yes,Software,GitHub,No,,,Yes,130,Male,Professor,Other,Phd,Phd,Other Computational Biology
+PMC5199621,2016,Nat_Methods,novoBreak: local assembly for breakpoint detection in cancer genomes,yes,,,,,Yes,Yes,Yes,Pipeline,Other(Sourceforge),No,,,No,87,Male, Associate Professor,Other,Phd,Phd,CS and Bioinformatics
+PMC4930141,2016,Nat_Methods,Data-driven hypothesis weighting increases detection power in genome-scale multiple testing,yes,,,,,Yes,Yes,Yes,Pipeline,Other(Website),Yes,Rmd,Single,No,297,Male,,Other Cheminformatics,PostDoc,Phd,Other Statistics
+PMC5045719,2016,Nat_Methods,DSBCapture: in situ capture and direct sequencing of dsDNA breaks,yes,,,,,No,Yes,Yes,Pipeline,Others(Supplementary),No,,,No,108,Male,Professor,Other,Phd,,
+PMC5001577,2016,Nucleic_Acids_Res,Subscriptions,no,no,no,,,No,No ,No ,,,,,,No,0,,,,,,
+PMC5210665,2016,Nucleic_Acids_Res,DrugCentral: online drug compendium,no,yes,yes,other,PostgreSQL,No,No,No,,,,,,No,174,Male,Professor,Other,MD-Phd,Phd,Other Computational Chemistry
+PMC5001587,2016,Nucleic_Acids_Res,Single base resolution analysis of 5-hydroxymethylcytosine in 188 human genes: implications for hepatic gene expression,no,no,yes,other,supplementary file,No,No,No,,,,,,No,18,Male,Professor,Other,Phd,,
+PMC5001604,2016,Nucleic_Acids_Res,"Splice-switching antisense oligonucleotides as therapeutic drugs
+",yes,,,,,No,No,No,,,,,,No,275,Female,Professor,Other,PostDoc,Phd,Other
+PMC4838366,2016,Nucleic_Acids_Res,"Defective histone supply causes condensin-dependent chromatin alterations, SAC activation and chromosome decatenation impairment
+",yes,,,,,No,No,No,,,,,,No,13,Male,,,Phd,Phd,Other Molecular Biology and Genetics
+PMC4987919,2016,Nucleic_Acids_Res,BetaSCPWeb: side-chain prediction for protein structures using Voronoi diagrams and geometry prioritization,yes,,,,,No,No,No,,,,,,No,24,Male,Professor,Other,Phd,Phd,Other
+PMC4987952,2016,Nucleic_Acids_Res,3D-GNOME: an integrated web service for structural modeling of the 3D genome,yes,,,,,No,No ,No ,,,,,,No,34,Male,Professor,Other,PostDoc,Phd,
+PMC4889955,2016,Nucleic_Acids_Res,The logic of DNA replication in double-stranded DNA viruses: insights from global analysis of viral genomes,yes,,,,,No,No ,No ,,,,,,No,55,Male,Professor,Other,PostDoc,Phd,Other
+PMC4937319,2016,Nucleic_Acids_Res,Redundans: an assembly pipeline for highly heterozygous genomes,yes,,,,,No,Yes,Yes,Pipeline,GitHub,No,,,No,281,Male,Professor,Bioinformatics,Phd,Phd,
+PMC4987948,2016,Nucleic_Acids_Res,Heatmapper: web-enabled heat mapping for all,yes,,,,,No,Yes,Yes,Software,GitHub,No,,,Yes,1009,Male,Professor,Other,Phd,,
+PMC5860066,2017,Bioinformatics,OMSim: a simulator for optical map data,yes,,,,,No,No,No,,,,,,No,10,Male,Associate Professor ,Bioinformatics,PostDoc,Masters,Bioinformatics
+PMC5870698,2017,Bioinformatics,HTSvis: a web app for exploratory data analysis and visualization of arrayed high-throughput screens,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,No,,,No,5,Male,Head of Division,Other ,PostDoc,Masters ,Other
+PMC6031019,2017,Bioinformatics,GDSCTools for mining pharmacogenomic interactions in cancer,yes,,,,,No,Yes,Yes,Software,GitHub,Yes,Notebook,Multiple,Yes,27,Male,Group Leader,Other,PostDoc,Phd,CS
+PMC5860120,2017,Bioinformatics,Kart: a divide-and-conquer algorithm for NGS read alignment,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No ,,,No,33,Male,Chair Professor,CS,Phd,Postdoc,CS and Bioinformatics
+PMC5870853,2017,Bioinformatics,"cyvcf2: fast, flexible variant analysis with Python",yes,,,,,Yes,Yes,Yes,Analytical,GitHub,No ,,,No,30,Male,Professor,CS,Phd,,
+PMC5860161,2017,Bioinformatics,FALCON: a toolbox for the fast contextualization of logical networks,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No ,,,No,10,Male,Professor,,,Postdoc,Bioinformatics
+PMC5905622,2017,Bioinformatics,SimulaTE: simulating complex landscapes of transposable elements of populations,yes,,,,,Yes,Yes,Yes,Tool,Other (Sourceforge),No,,,No,7,Male ,Professor,Other ,Phd,,
+PMC5870603,2017,Bioinformatics,"Estimation of time-varying growth, uptake and excretion rates from dynamic metabolomics data",yes,,,,,Yes,Yes,Yes,Pipeline,Other (Website),No ,,,,10,Female,Research Scientist,Other ,Phd,Postdoc,
+PMC5870860,2017,Bioinformatics,Threshold-seq: a tool for determining the threshold in short RNA-seq datasets,yes,,,,,Yes,Yes,Yes,Tool,Other (Website),No ,,,No,11,Male,Professor,CS,Phd,Phd,Other
+PMC5860361,2017,Bioinformatics,graphkernels: R and Python packages for graph comparison,yes,,,,,Yes,Yes,Yes,Package,Others (Website),No,,,No,45,Male,Professor,CS,Phd,Postdoc,Bioinformatics
+PMC5333178,2017,BMC_Bioinformatics,Interactive exploration of ligand transportation through protein tunnels,no,no,No (Available upon request),,,No,No,No,,,,,,No,16,Female,Associate Professor ,CS,Phd,Phd,Bioinformatics
+PMC5745977,2017,BMC_Bioinformatics,"A comparison of genotyping-by-sequencing analysis methods on low-coverage crop datasets shows advantages of a new workflow, GB-eaSy",no,yes,yes,other,GB-eaSy pipeline,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,37,Male,Professor,Other ,Phd,Phd,Bioinformatics
+PMC5379749,2017,BMC_Bioinformatics,Guide Picker is a comprehensive design tool for visualizing and selecting guides for CRISPR experiments,yes,,,,,No,No,No,,,,,,No,29,Male,VP,Other ,Masters,Phd,Other
+PMC5773911,2017,BMC_Bioinformatics,Predicting enhancers with deep convolutional neural networks,yes,,,,,No,No (Available upon request),No,,,,,,No,59,,,,,,
+PMC5568075,2017,BMC_Bioinformatics,A regulation probability model-based meta-analysis of multiple transcriptomics data sets for cancer biomarker identification,yes,,,,,Yes,No (Link Expired),No,,,,,,No,0,,,,,,
+PMC5260008,2017,BMC_Bioinformatics,FuGePrior: A novel gene fusion prioritization algorithm based on accurate fusion structure analysis in cancer RNA-seq samples,yes,,,,,No,No (Link Expired),No,,,,,,No,7,Female,Assistant Professor,Bioinformatics,Phd,Phd ,CS
+PMC5697234,2017,BMC_Bioinformatics,Synima: a Synteny imaging tool for annotated genome assemblies,yes,,,,,Yes,Yes,Yes,Tool,GitHub,No,,,Yes,25,Male,Lecturer,Bioinformatics,Phd,,
+PMC5721689,2017,BMC_Bioinformatics,Bayesian estimation of scaled mutation rate under the coalescent: a sequential Monte Carlo approach,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,1,Male,Professor,Other,Phd,Phd,Other
+PMC5490186,2017,BMC_Bioinformatics,ISVASE: identification of sequence variant associated with splicing event using RNA-seq data,yes,,,,,Yes,Yes,Yes,Tool,Other(Sourceforge),No,,,No,0,Male,Professor,,,,
+PMC5353803,2017,BMC_Bioinformatics,microclass: an R-package for 16S taxonomy classification,yes,,,,,No,Yes,Yes,Package,Other(Website),Yes,Rmd,Single,No,17,Male,Associate Professor,,,Phd,Informatics
+PMC5599895,2017,Genome_Biol,Dynamic DNA methylation reconfiguration during seed development and germination,no,yes,yes,GEO,,No,No,No,,,,,,No,144,Male,Professor,Other,Postdoc,Phd,Other
+PMC5604343,2017,Genome_Biol,DNA epigenome editing using CRISPR-Cas SunTag-directed DNMT3A,no,yes,yes,GEO,,No,No,No,,,,,,No,117,Female,Chair and Professor,Other,Postdoc,Phd ,Other
+PMC5517843,2017,Genome_Biol,Methicillin-resistant Staphylococcus aureus emerged long before the introduction of methicillin into clinical practice,no,yes,yes,other,ENA,No,No,No,,,,,,No,181,Male,Professor,,Postdoc,Phd,
+PMC5366155,2017,Genome_Biol,MeDeCom: discovery and quantification of latent components of heterogeneous methylomes,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,Yes,Rmd,Single,Yes,58,Male,Professor,,Postdoc,,
+PMC5709945,2017,Genome_Biol,OMSV enables accurate and comprehensive identification of large structural variations from nanochannel-based single-molecule optical maps,no,yes,yes,other,Zenodo,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,25,Male,Professor,CS,Postdoc,,
+PMC5473967,2017,Genome_Biol,Translational contributions to tissue specificity in rhythmic and constitutive gene expression,no,yes,yes,GEO,,Yes,Yes,Yes,Analytical,GitHub,No,,,Yes,39,Male,Associate Professor,Other,Postdoc,Phd,Other
+PMC5663038,2017,Genome_Biol,Comparative epigenomics in the Brassicaceae reveals two evolutionarily conserved modes of PRC2-mediated gene regulation.,yes,,,,,No,No,No,,,,,,No,9,Male,Professor,,,Phd,Computational Biology
+PMC5412043,2017,Genome_Biol,Unraveling the clonal hierarchy of somatic genomic aberrations,yes,,,,,No,No,No,,,,,,No,86,Female,Professor,Other,Phd,Phd,Other
+PMC5320668,2017,Genome_Biol,epiG: statistical inference and profiling of DNA methylation from whole-genome bisulfite sequencing data,yes,,,,,Yes,No (Link Expired),No,,,,,,Can't tell,6,Male,Professor,Other,Postdoc,Postdoc,Other
+PMC5657048,2017,Genome_Biol,McEnhancer: predicting gene expression via semi-supervised assignment of enhancers to target genes,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,21,Male,Professor,CS,Postdoc,Phd,CS
+PMC5372248,2017,Genome_Med,Ethnic and diet-related differences in the healthy infant microbiome,no,yes,no,,,No,No,No,,,,,,No,76,Female,Professor,Other,"MD,Phd",Postdoc,Other
+PMC5394620,2017,Genome_Med,Intersect-then-combine approach: improving the performance of somatic variant calling in whole exome sequencing data using multiple aligners and callers,no,yes,yes,other,precisionFDA ,No,No,No,,,,,,No,40,Male,Professor,Other,Postdoc,Phd,Bioinformatics
+PMC5693798,2017,Genome_Med,Whole-exome sequencing in amyotrophic lateral sclerosis suggests NEK1 is a risk gene in Chinese,no,yes,yes,other,Project Mine web browser,No,No,No,,,,,,No,21,Male,Head of Department,Other,"MD,Phd",Postdoc,Other
+PMC5260019,2017,Genome_Med,"Genetic relatedness analysis reveals the cotransmission of genetically related Plasmodium falciparum parasites in Thiès, Senegal",no,yes,yes,other,CBI Sequence Read Archive repository,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,34,Female,Professor,Other,Phd,Phd,Other
+PMC5561556,2017,Genome_Med,A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications,yes,,,,,No,No,No,,,,,,No,361,Male,Researcher,Other,Phd,Phd,Other
+PMC5729609,2017,Genome_Med,Mapping a shared genetic basis for neurodevelopmental disorders,yes,,,,,No,No,No,,,,,,No,21,Male,Associate Professor,Other,Postdoc,,Bioinformatics
+PMC5713157,2017,Genome_Med,Emerging mechanisms and novel targets in allergic inflammation and asthma,yes,,,,,No,No,No,,,,,,No,3,Male,Professor,Other,MD,,
+PMC5477758,2017,Genome_Med,Computing patient data in the cloud: practical and legal considerations for genetics and genomics research in Europe and internationally,yes,,,,,No,No,No,,,,,,No,27,Male,Head of Department,Other,Postdoc,Phd,Other
+PMC5704398,2017,Genome_Med,Recurrent de novo mutations in neurodevelopmental disorders: properties and clinical implications,yes,,,,,No,No,No,,,,,,No,79,Male,Professor,"Other, Molecular Genetics",Phd,Phd,Other Statistical Genetics
+PMC5404673,2017,Genome_Med,PathOS: a decision support system for reporting high throughput sequencing of cancers in clinical diagnostic laboratories,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,31,Male,Professor,Other,Phd,Phd,Other
+PMC5340623,2017,Nat_Biotechnol,Dynamic regulation of metabolic flux in engineered bacteria using a pathway-independent quorum-sensing circuit,no,no,no,,,No,No,No,,,,,,No,301,Female,Professor,Other,Phd,,Other
+PMC5462862,2017,Nat_Biotechnol,Generation of inner ear organoids with functional hair cells from human pluripotent stem cells,no,no,no,,,No,No,No,,,,,,No,153,Female,Professor,Other,Phd,Phd,Other
+PMC5340646,2017,Nat_Biotechnol,A synthetic AAV vector enables safe and efficient gene transfer to the mammalian inner ear,no,no,no,,,No,No,No,,,,,,No,181,Male,Associate Professor,Other,Phd,"MD, Phd",Other
+PMC5462860,2017,Nat_Biotechnol,CRISPR–Cas9 epigenome editing enables high-throughput screening for functional regulatory elements in the human genome,no,yes,yes,GEO,,No,No,No,,,,,,No,286,Male,Professor,Other,Phd,Phd,Other
+PMC5722674,2017,Nat_Biotechnol,Generation of TCRs of higher affinity by antigen-driven differentiation of progenitor T cells in vitro,no,yes,yes,other,ImmuneACCESS,No,No,No,,,,,,No,24,Male,Professor,Other,"MD,Postdoc",,
+PMC5557292,2017,Nat_Biotechnol,Synergistic drug combinations for cancer identified in a CRISPR screen for pairwise genetic interactions,no,yes,yes,SRA,,No,No (Available upon request),No,,,,,,No,300,Male,Associate Professor,Other,Postdoc,Phd,Other
+PMC5800952,2017,Nat_Biotechnol,Orthologous CRISPR-Cas9 enzymes for Combinatorial Genetic Screens,no,yes,yes,other,zip file,Yes,Yes,Yes,Pipeline,GitHub,No,,,,171,Male,Director of Research,Other,Phd,Phd,Other 
+PMC5462879,2017,Nat_Biotechnol,In vivo genome editing and organoid transplantation models of colorectal cancer,yes,,,,,No,No,No,,,,,,No,187,Male,Associate Professor,Other,"MD, Postdoc",Postdoc,Other
+PMC5388574,2017,Nat_Biotechnol,Increasing the genome-targeting scope and precision of base editing with engineered Cas9-cytidine deaminase fusions,yes,,,,,No,No,No,,,,,,No,513,Male,Professor,Other,Phd,Phd,Other
+PMC5607865,2017,Nat_Biotechnol,GuideScan software for improved single and paired CRISPR guide RNA design,yes,,,,,No,Yes,Yes,Software,Other (BitBucket),No,,,No,130,Male,Member,Other,"MD, Phd","MD, Phd",Bioinformatics
+PMC5664152,2017,Nat_Genet,Germline hypomorphic CARD11 mutations in severe atopic disease,no,yes,No (Available upon request),,,No,No,No,,,,,,No,121,Male,Professor,Other,MD,,
+PMC5803080,2017,Nat_Genet,SMARCB1 is required for widespread BAF complex-mediated activation of enhancers and bivalent promoters,no,yes,yes,GEO,,No,No,No,,,,,,No,132,Female,Associate Professor,Other,Phd,,
+PMC5560095,2017,Nat_Genet,Kmt1e regulates a large neuron-specific topological chromatin domain,no,yes,yes,GEO,,No,No,No,,,,,,No,96,Male,Professor,Other,"MD,Phd",Postdoc,Other
+PMC5675000,2017,Nat_Genet,"Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands",no,yes,yes,other,dbGaP,No,No,No,,,,,,No,391,Female,Professor,Other,MD,Phd,Other Statistical Genetics
+PMC5490654,2017,Nat_Genet,Meta-analysis of five genome-wide association studies identifies multiple new loci associated with testicular germ cell tumor,no,yes,yes,other,EGA,No,No,No,,,,,,No,86,Female,Professor,Other,MD,Phd,Other
+PMC5326681,2017,Nat_Genet,Genome-wide association analyses for lung function and chronic obstructive pulmonary disease identify new loci and potential druggable targets,no,yes,yes,other,Biobank,No,No,No,,,,,,No,211,Male,Professor,,,,
+PMC5709169,2017,Nat_Genet,Ancient hybridization and strong adaptation to viruses across African vervet monkey populations,no,yes,yes,other,NCBI SRA,No,No,No,,,,,,No,57,Male,Associate Professor,Other,Postdoc,Postdoc,Computational Genomics
+PMC5659388,2017,Nat_Genet,Recurrent noncoding regulatory mutations in pancreatic ductal adenocarcinoma,no,yes,yes,other,IGCG,No,No (Available upon request),No,,,,,,No,44, Male,Professor,Other,"MD,Phd",Phd,Other
+PMC5621629,2017,Nat_Genet,Identification of 153 new loci associated with heel bone mineral density and functional involvement of GPC6 in osteoporosis,yes,,,,,No,No,No,,,,,,No,266,Male,Professor,Other Statistical Genetics,Phd,Phd,Genetics
+PMC5395419,2017,Nat_Genet,"Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,221,Male,Professor,CS,Phd,Phd,Other
+PMC5909187,2017,Nat_Methods,Inducible and multiplex gene regulation using CRISPR-Cpf1-based transcription factors,no,yes,No (Available upon request),,,No,No,No,,,,,,No,137,Male,Professor,Other Genetics,"MD,Phd",Phd,Epigenetics
+PMC5426913,2017,Nat_Methods,Generation of mature T cells from human hematopoietic stem/progenitor cells in artificial thymic organoids,no,yes,No (Available upon request),,,No,No,No,,,,,,No,97,Female,Associate Project Scientist,Other,Phd,"MD,Phd",Other
+PMC5636219,2017,Nat_Methods,Internally ratiometric fluorescent sensors for evaluation of intracellular GTP levels and distribution,no,yes,No (Available upon request),,,No,No,No,,,,,,No,32,Male,Professor,Other Genetics,Phd,Phd,Other
+PMC5482233,2017,Nat_Methods,Large-field-of-view imaging by Multi-Pupil Adaptive Optics,no,yes,No (Available upon request),,,Yes,No,No,,,,,,No,69,Male,Assistant Professor,Other,Phd,Postdoc,Other
+PMC5730411,2017,Nat_Methods,Rapidly inducible Cas9 and DSB-ddPCR to probe editing kinetics,no,yes,yes,other,NCBI,No,No,No,,,,,,No,59,Male,Associate Professor,Other,Phd,,
+PMC5777571,2017,Nat_Methods,One-step generation of conditional and reversible gene knockouts,no,yes,yes,other,Addgene,No,No,No,,,,,,No,46,Male,Group Leader,Other ,Phd,Phd,Other
+PMC5678970,2017,Nat_Methods,Red-shifted luciferase-luciferin pairs for enhanced bioluminescence imaging,no,yes,yes,other,GenBank,No,No,No,,,,,,No,99,Male,Associate Professor,Other,Postdoc,Phd,Other
+PMC5334791,2017,Nat_Methods,Pooled CRISPR screening with single-cell transcriptome read-out,no,yes,yes,other,gb file,Yes,Yes,Yes,Analytical,"GitHub, Supplementary",No,,,Yes,463,Male,Professor,Bioinformatics,Postdoc,Phd,Other
+PMC6026581,2017,Nat_Methods,Interactome INSIDER: a structural interactome browser for genomic studies,yes,,,,,Yes,Yes,Yes,Tool,GitHub,Yes,Notebook,single,No,89,Male,Professor,Bioinformatics,Postdoc,Phd,Computational Biology
+PMC5564216,2017,Nat_Methods,CrY2H-seq: a massively-multiplexed assay for deep coverage interactome mapping,yes,,,,,Yes,Yes,Yes,Analytical,Supplementary,No,,,Yes,98,Male,Professor,Other,Postdoc,Phd,Other
+PMC5389697,2017,Nucleic_Acids_Res,Alternative lengthening of telomeres can be maintained by preferential elongation of lagging strands,no,no,no,,,No,No,No,,,,,,No,45,Male,Professor,Other,Phd,Phd,Other
+PMC5814900,2017,Nucleic_Acids_Res,Triggering nucleic acid nanostructure assembly by conditional kissing interactions,no,no,no,,,No,No,No,,,,,,No,8,Male,CSO,Other,Phd,Postdoc,Other
+PMC5570051,2017,Nucleic_Acids_Res,Precise integration of inducible transcriptional elements (PrIITE) enables absolute control of gene expression,no,no,no,,,No,No,No,,,,,,No,16,Male,Associate Professor,Other,Phd,,
+PMC5861427,2017,Nucleic_Acids_Res,ExoCET: exonuclease in vitro assembly combined with RecET recombination for highly efficient direct DNA cloning from complex genomes,no,no,no,,,No,No,No,,,,,,No,71,,,,,,
+PMC5737895,2017,Nucleic_Acids_Res,ExoCET: exonuclease in vitro assembly combined with RecET recombination for highly efficient direct DNA cloning from complex genomes,no,no,no,,,No,No,No,,,,,,No,12,Male,Assistant Professor,Other,Postdoc,Phd,Other
+PMC5766199,2017,Nucleic_Acids_Res,CLIP-seq analysis of multi-mapped reads discovers novel functional RNA regulatory sites in the human transcriptome,no,no,no,,,No,Yes,Yes,Pipeline,GitHub,No,,,No,31,Male,Professor,Bioinformatics,Postdoc,Phd,Bioinformatics
+PMC5737570,2017,Nucleic_Acids_Res,The yeast 2-μm plasmid Raf protein contributes to plasmid inheritance by stabilizing the Rep1 and Rep2 partitioning proteins,no,no,yes,other,Genbank,No,No,No,,,,,,No,10,Female,Professor,Other,Postdoc,Postdoc,
+PMC5737898,2017,Nucleic_Acids_Res,LDB1-mediated enhancer looping can be established independent of mediator and cohesin,yes,,,,,No,No,No,,,,,,No,37,Female,Senior Investigator,,Phd,Phd,Other Molecular Genetics
+PMC5389708,2017,Nucleic_Acids_Res,Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization,yes,,,,,No,No,No,,,,,,No,37,Female,Professor,Other,Postdoc,Postdoc,Other
+PMC5753376,2017,Nucleic_Acids_Res,The SysteMHC Atlas project,yes,,,,,No,No,No,,,,,,No,91,Male,Assistant Professor,Bioinformatics,Postdoc,Postdoc,Other 
+PMC6662083,2018,Bioinformatics,"CASMAP: detection of statistically significant combinations of SNPs in association mapping
+",yes,,,,,Yes,Yes,Yes,Package,GitHub,Yes,"Rmd, ipynb",Multiple,No,8,Male,Professor,CS,Postdoc,Phd,Computational Biology
+PMC6581432,2018,Bioinformatics,"MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs)
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,25,Male,Professor,Bioinformatics,Phd,Phd,Bioinformatics
+PMC6022719,2018,Bioinformatics,"Deconvolution and phylogeny inference of structural variations in tumor genomic samples
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,Yes,28,Male,Professor,CS,Postdoc,MS,Computational Biology
+PMC6022601,2018,Bioinformatics,"Association mapping in biomedical time series via statistically significant shapelet mining
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,20,Male,Professor,CS,Postdoc,Phd,Bioinformatics
+PMC6041755,2018,Bioinformatics,"Network-based integration of multi-omics data for prioritizing cancer genes
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,,80,Male,Professor,CS,Postdoc,MS,CS
+PMC6247942,2018,Bioinformatics,"MolArt: a molecular structure annotation and visualization tool
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,16,Male,Head and Professor,Other,Phd,Postdoc,CS
+PMC6129310,2018,Bioinformatics,"CaSiAn: a Calcium Signaling Analyzer tool
+",yes,,,,,Yes,Yes,Yes,Tool,GitHub,No,,,No,8,Male,Associate Professor,Other,Postdoc,Phd,CS
+PMC6022688,2018,Bioinformatics,Enumerating consistent sub-graphs of directed acyclic graphs: an insight into biomedical ontologies,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,6,Male,Assistant Professor,CS,Phd,Phd,CS
+PMC6022691,2018,Bioinformatics,"Scalable preprocessing for sparse scRNA-seq data exploiting prior knowledge
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,Yes,Notebook,Multiple,Yes,15,Male,Assistant Professor,Other Electrical and Computer Engineering,Phd,Phd,Other Electrical and Computer Engineering
+PMC6084591,2018,Bioinformatics,"ONETOOL for the analysis of family-based big data
+",yes,,,,,Yes,Yes,Yes,Pipeline,Other (Website),No,,,No,13,Male,Professor,Other,Postdoc,Phd,Other Biostatistics
+PMC6038323,2018,BMC_Bioinformatics,A deep learning approach to bilingual lexicon induction in the biomedical domain,yes,,,,,No,No,No,,,,,,No,9,Female,Professor,CS,Phd,Phd,CS
+PMC6245584,2018,BMC_Bioinformatics,Computational discovery of direct associations between GO terms and protein domains,yes,,,,,No,No,No,,,,,,No,3,Female,Research Officer,CS,Phd,Phd,CS
+PMC6020218,2018,BMC_Bioinformatics,ToTem: a tool for variant calling pipeline optimization,yes,,,,,Yes,No (Link expired),No,,,,,,Can't tell,2,Female,Professor,,,Phd,Other Genetics
+PMC5796405,2018,BMC_Bioinformatics,Grid-based prediction of torsion angle probabilities of protein backbone and its application to discrimination of protein intrinsic disorder regions and selection of model structures,yes,,,,,Yes,No (Link expired),No,,,,,,Can't tell,10,Male,Professor,Other,Postdoc,Phd,Other
+PMC6020255,2018,BMC_Bioinformatics,ProMotE: an efficient algorithm for counting independent motifs in uncertain network topologies,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,1,Male,Professor,CS,Phd,Phd,CS
+PMC5998916,2018,BMC_Bioinformatics,Computing the family-free DCJ similarity,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,18,Male,Professor,Bioinformatics,Postdoc,Phd,CS
+PMC6134797,2018,BMC_Bioinformatics,Priority-Lasso: a simple hierarchical approach to the prediction of clinical outcome using multi-omics data,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,23,Female,Professor,Other,Phd,MS,Other 
+PMC6247705,2018,BMC_Bioinformatics,ASGAL: aligning RNA-Seq data to a splicing graph to detect novel alternative splicing events,yes,,,,,No,Yes,Yes,Tool,GitHub,No,,,No,23,Female,Professor,CS and Bioinformatics,Phd,Phd,CS
+PMC6003080,2018,BMC_Bioinformatics,Taxonomy-aware feature engineering for microbiome classification,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,35,Male,Associate Professor,CS,Phd,Phd,CS and Bioinformatics
+PMC6286514,2018,BMC_Bioinformatics,GOnet: a tool for interactive Gene Ontology analysis,yes,,,,,Yes,Yes,Yes,Tool,GitHub,No,,,No,87,Male,Professor,Other,Phd,,
+PMC5870398,2018,Genome_Biol,Correction to: Redefining mouse transgenesis with CRISPR/Cas9 genome editing technology,no,no,no,,,No,No,No,,,,,,No,36,Male,Group Leader,Other,"MD, Phd",,
+PMC6299574,2018,Genome_Biol,Exploring the genetic basis of human population differences in DNA methylation and their causal impact on immune gene regulation,no,yes,yes,GEO,,No,No,No,,,,,,No,49,Male,Head ,Other Genetics,Phd,,
+PMC6305572,2018,Genome_Biol,SCOPE-Seq: a scalable technology for linking live cell imaging and single-cell RNA sequencing,no,yes,yes,GEO,,No,No,No,,,,,,No,23,Male,Associate Professor,Other,Postdoc,Postdoc,Other
+PMC5984373,2018,Genome_Biol,UMI-count modeling and differential expression analysis for single-cell RNA sequencing,no,yes,yes,GEO,,Yes,Yes,Yes,Pipeline,Other (Bitbucket),Yes,Rmd,Single,Yes,48,Male,Assistant Member,Other Computational Biology,Postdoc,Postdoc,CS
+PMC6203279,2018,Genome_Biol,Canonical and single-cell Hi-C reveal distinct chromatin interaction sub-networks of mammalian transcription factors,yes,,,,,No,No,No,,,,,,No,19,Male,Senior Investigator,Other,Phd,,
+PMC5759268,2018,Genome_Biol,Epigenetic supersimilarity of monozygotic twin pairs,yes,,,,,No,No,No,,,,,,No,59,Male,Professor,Other Genetics,Postdoc,Phd,CS
+PMC5815211,2018,Genome_Biol,Ageing-associated DNA methylation dynamics are a molecular readout of lifespan variation among mammalian species,yes,,,,,No,No,No,,,,,,No,36,Male,Professor,Other Epigenetics,Postdoc,Phd,Other
+PMC6097284,2018,Genome_Biol,Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data,yes,,,,,No,No,No,,,,,,No,125,Male,Leader,Bioinformatics,Postdoc,,
+PMC5870483,2018,Genome_Biol,Pulling the genome in opposite directions to dissect gene networks,yes,,,,,No,No,No,,,,,,No,2,Male,Professor,Other Genetics,Phd,Phd,Other
+PMC6036703,2018,Genome_Biol,"Splicing heterogeneity: separating signal from noise
+",yes,,,,,No,No,No,,,,,,No,34,Male,Senior Investigator,Other,Postdoc,Phd,
+PMC5830331,2018,Genome_Med,"NSAID use and somatic exomic mutations in Barrett’s esophagus
+",no,yes,No (Available upon request),,,No,No,No,,,,,,No,13,,,,,BS,Other
+PMC5872584,2018,Genome_Med,Elevated polygenic burden for autism is associated with differential DNA methylation at birth,no,yes,No (Available upon request),,,Yes,Yes,Yes,Analytical,GitHub,No,,,Upon request,61,Male,Professor,"Other, Genetics",Postdoc,Phd,"Other, Genetics"
+PMC6286558,2018,Genome_Med,"Complex structural variants in Mendelian disorders: identification and breakpoint resolution using short- and long-read genome sequencing
+",no,yes,yes,other,EGP,No,No,No,,,,,,No,73,Female,Director ,"Other, Genetics",Postdoc,Postdoc,Other
+PMC6162943,2018,Genome_Med,"Advanced model systems and tools for basic and translational human immunology
+",yes,,,,,No,No,No,,,,,,No,52,Male,Professor,Other,Phd,Phd,Other
+PMC5902843,2018,Genome_Med,"Integrative analysis reveals functional and regulatory roles of H3K79me2 in mediating alternative splicing
+",yes,,,,,No,No,No,,,,,,No,22,Male,Professor,Other,Phd,MS,Other
+PMC6309089,2018,Genome_Med,"Polygenic risk scores: a biased prediction?
+",yes,,,,,No,No,No,,,,,,No,64,Male,Professor,Other,Postdoc,Phd,"Other, Genetics"
+PMC5968547,2018,Genome_Med,"Antifungal immune responses: emerging host–pathogen interactions and translational implications
+",yes,,,,,No,No,No,,,,,,No,5,Male,Professor,Other,Postdoc,Phd,"Other, Genetics"
+PMC6208080,2018,Genome_Med,"Distinct microbes, metabolites, and ecologies define the microbiome in deficient and proficient mismatch repair colorectal cancers
+",yes,,,,,No,No,No,,,,,,No,67,Male,Assistant Professor,Other,Phd,Phd,Other
+PMC6109350,2018,Genome_Med,"Exploring the pre-immune landscape of antigen-specific T cells
+",yes,,,,,Yes,Yes,Yes,Analytical,GitHub,Yes,Rmd,Multiple,Yes,26,Male,Head,Other,Phd,,
+PMC5992758,2018,Genome_Med,"A computational tool to detect DNA alterations tailored to formalin-fixed paraffin-embedded samples in cancer clinical sequencing
+",yes,,,,,Yes,Yes,Yes,Tool,GitHub,No,,,No,16,Male,Professor,Other,"MD, Postdoc",Phd,Other
+PMC6329375,2018,Nat_Biotechnol,"Human ESC-Derived Cardiomyocytes Restore Function in Infarcted Hearts of Non-Human Primates
+",no,no,no,,,No,No,No,,,,,,No,307,Male,Professor,Other,"MD,Postdoc",Phd,Other
+PMC6072461,2018,Nat_Biotechnol,"Dual gene activation and knockout screen reveals directional dependencies in genetic networks
+",no,yes,yes,SRA,,No,No,No,,,,,,No,91,Male,Professor,"Other, Genetics",Postdoc,Postdoc,Other
+PMC6093211,2018,Nat_Biotechnol,"ED SUM: Signaling by the neurotransmitter acetylcholine is monitored in cells and animals with a sensitive reporter.
+",no,yes,yes,other,Addgene,No,No,No,,,,,,No,0,Male,Professor,Other,Phd,Phd,Other
+PMC6126964,2018,Nat_Biotechnol,"Diseases caused by different mutations in the two alleles of a gene are treated in mice by Cas-9-induced allelic exchange.
+",no,yes,yes,SRA,,No,No,No,,,,,,No,0,Male,Professor,Other,Postdoc,Phd,"Other, Genetics"
+PMC6488461,2018,Nat_Biotechnol,"Identification of spatially associated subpopulations by combining scRNA-seq and sequential fluorescence in situ hybridization data
+",no,yes,yes,GEO,,No,No,No,,,,,,No,104,Male,Professor,Other,Postdoc,Phd,Other
+PMC5990468,2018,Nat_Biotechnol,"High-throughput creation and functional profiling of DNA sequence variant libraries using CRISPR/Cas9 in yeast
+",no,yes,yes,SRA,,Yes,No (Available upon request),No,,,,,,No,53,Male,Professor,Other,Phd,Phd,
+PMC5942543,2018,Nat_Biotechnol,"Simultaneous lineage tracing and cell-type identification using CRISPR/Cas9-induced genetic scars
+",no,yes,yes,GEO,,Yes,No (Link expired),No,,,,,,No,274,Male,Group Leader,Other,Postdoc,Phd,Bioinformatics
+PMC6526074,2018,Nat_Biotechnol,"RNAi Modulation of Placental sFLT1 for the Treatment of Preeclampsia.
+",yes,,,,,No,No,No,,,,,,No,85,Female,Professor,Other,Postdoc,Postdoc,Other
+ PMC6436528,2018,Nat_Biotechnol,"Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea
+",yes,,,,,No,No,No,,,,,,No,10,Female,Program Lead,"Other, Genetics",Postdoc,Postdoc,Other
+PMC6590076,2018,Nat_Biotechnol,"Encoding human serine phosphopeptides in bacteria for proteome-wide identification of phosphorylation-dependent interactions
+",yes,,,,,No,Yes,Yes,Analytical,GitHub,No,,,No,19,Male,Associate Professor,Other,Phd,Phd,Other
+PMC6168378,2018,Nat_Genet,Genome-wide association analyses identify 39 new susceptibility loci for diverticular disease,no,yes,no,,,No,No,No,,,,,,No,57,Female,Professor,Other,"MD,Phd",MD,Other
+PMC5984618,2018,Nat_Genet,The Rosa genome provides new insights into the domestication of modern roses,no,yes,yes,other,DDBJ/ENA/GenBank,No,No,No,,,,,,No,187,Male,Research Director,Other,Postdoc,,
+PMC5934307,2018,Nat_Genet,Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma,no,yes,yes,other,EGA,No,No,No,,,,,,No,123,Male,Professor,Other,Postdoc,Postdoc,Other
+PMC6521726,2018,Nat_Genet,"Genetics of Blood Lipids Among ~300,000 Multi-Ethnic Participants of the Million Veteran Program",no,yes,yes,other,dbGaP,No,No,No,,,,,,No,287,Male,Associate Professor,"Other, Biostatistics","MD, Phd",MD,Other
+PMC5898373,2018,Nat_Genet,"Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes
+",yes,,,,,No,No,No,,,,,,No,223,Male,Executive Director,Other,MD,Phd,Other
+PMC5896734,2018,Nat_Genet,"Genome-wide analyses using UK Biobank data provide insights into the genetic architecture of osteoarthritis
+",yes,,,,,No,No,No,,,,,,No,139,Female,Group Leader,"Other, Genetics",Postdoc,,
+PMC5934350,2018,Nat_Genet,Comparison of methods that use whole genome data to estimate the heritability and genetic architecture of complex traits,yes,,,,,No,No,No,,,,,,No,162,Male,Professor,Other,Phd,Phd,"Other, Genetics"
+PMC5935235,2018,Nat_Genet,Regulatory variants at KLF14 influence type 2 diabetes risk via a female-specific effect on adipocyte size and body composition,yes,,,,,No,No,No,,,,,,No,83,Male,Executive Director,Other,MD,Phd,"Other, Genetics"
+PMC5942247,2018,Nat_Genet,A large electronic health record-based genome-wide study of serum lipids,yes,,,,,No,No,No,,,,,,No,141,Male,Professor,"Other, Biomaths",Phd,Phd,CS
+PMC6330062,2018,Nat_Genet,"High resolution genetic mapping of putative causal interactions between regions of open chromatin
+",yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,57,Male,Group Leader,"Other, Genetics",Phd,Postdoc,"Other, Genetics"
+PMC6380887,2018,Nat_Methods,Inferring single-trial neural population dynamics using sequential auto-encoders,no,yes,No (Available upon request),,,Yes,Yes,Yes,Pipeline,Supplementary,No,,,No,287,Male,Adjunt Professor,"Other, Computational Neuroscience",Postdoc,Postdoc,Other
+PMC6677388,2018,Nat_Methods,Reliability of human 3D cortical organoid generation,no,yes,yes,GEO,,No,No,No,,,,,,No,176,Male,Associate Professor,Other,Postdoc,Postdoc,"Other, Genetics"
+PMC5990454,2018,Nat_Methods,Picky Comprehensively Detects High Resolution Structural Variants in Nanopore Long Reads,no,yes,yes,SRA,,Yes,Yes,Yes,Pipeline,GitHub,No,,,No,57,Female,Professor,Other,Postdoc,Postdoc,"Other, Genetics"
+PMC6152898,2018,Nat_Methods,Improved Ribo-seq enables identification of cryptic translation events,no,yes,yes,other,PXD,Yes,Yes,Yes,Pipeline,GitHub,,,,No,71,Male,,,,,
+PMC6624853,2018,Nat_Methods,Analyzing complex single molecule emission patterns with deep learning,yes,,,,,No,No,No,,,,,,No,50,Male,Assistant Professor,Other,Phd,Phd,Other
+PMC6345375,2018,Nat_Methods,Modified aptamers enable quantitative sub-10-nm cellular DNA-PAINT imaging,yes,,,,,No,No,No,,,,,,No,96,Male,Professor,Other,Postdoc,Postdoc,Other
+PMC6235447,2018,Nat_Methods,Species-level functional profiling of metagenomes and metatranscriptomes,yes,,,,,Yes,No,No,,,,,,No,635,Male,Professor,CS,Phd,Phd,Bioinformatics
+PMC6204345,2018,Nat_Methods,All-optical synaptic electrophysiology probes mechanism of ketamine-induced disinhibition,yes,,,,,Yes,No (Available upon request),No,,,,,,No,25,Male,Professor,Other,Phd,Phd,Other
+PMC6076999,2018,Nat_Methods,Genome-wide SWAp-tag yeast libraries for proteome exploration,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,No,,,Yes,67,Female,Professor,"Other, Genetics",Phd,Postdoc,Other
+PMC6289068,2018,Nat_Methods,Deep Generative Modeling for Single-cell Transcriptomics,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,Yes,Notebook,Multiple,Yes,495,Male,Associate Professor,Other,Phd,Phd,CS
+PMC6009585,2018,Nucleic_Acids_Res,The longevity SNP rs2802292 uncovered: HSF1 activates stress-dependent expression of FOXO3 through an intronic enhancer,no,no,no,,,No,No,No,,,,,,No,44,Male,Associate Professor,Other,"MD, Phd",Phd,Other
+PMC5861426,2018,Nucleic_Acids_Res,Characterization of DNA ADP-ribosyltransferase activities of PARP2 and PARP3: new insights into DNA ADP-ribosylation,no,no,no,,,No,No,No,,,,,,No,71,,,,,Phd,Other
+PMC6182162,2018,Nucleic_Acids_Res,NAD+-dependent synthesis of a 5′-phospho-ADP-ribosylated RNA/DNA cap by RNA 2′-phosphotransferase Tpt1,no,no,no,,,No,No,No,,,,,,No,22,Male,Professor,Other,"MD, Phd",Phd,Other
+PMC5961129,2018,Nucleic_Acids_Res,Expanding RNA binding specificity and affinity of engineered PUF domains,no,yes,yes,other,Protein Data Bank,No,No,No,,,,,,No,25,Male,Professor,Other,Postdoc,,
+PMC6212713,2018,Nucleic_Acids_Res,Schizosaccharomyces pombe Pol II transcription elongation factor ELL functions as part of a rudimentary super elongation complex,no,yes,yes,GEO,,No,No,No,,,,,,No,3,Female,Professor,Other,Postdoc,Postdoc,Other
+PMC6379650,2018,Nucleic_Acids_Res,NMR solution structure of an asymmetric intermolecular leaped V-shape G-quadruplex: selective recognition of the d(G2NG3NG4) sequence motif by a short linear G-rich DNA probe,no,yes,yes,other,Protein Data Bank,No,No,No,,,,,,No,14,Male,Professor,Other,Phd,,
+PMC6125643,2018,Nucleic_Acids_Res,"Development of the variant calling algorithm, ADIScan, and its use to estimate discordant sequences between monozygotic twins",no,yes,yes,other,Korea National Institute of Health,Yes,No (Link expired),No,,,,,,Can't tell,4,Male,CEO,Bioinformatics,Phd,MD,Other
+PMC6212719,2018,Nucleic_Acids_Res,RbpA relaxes promoter selectivity of M. tuberculosis RNA polymerase,yes,,,,,No,No,No,,,,,,No,9,,,,,Postdoc,Other
+PMC6009581,2018,Nucleic_Acids_Res,"Methylation guide RNA evolution in archaea: structure, function and genomic organization of 110 C/D box sRNA families across six Pyrobaculum species",yes,,,,,No,No,No,,,,,,No,8,,,,,Phd,Bioinformatics
+PMC6030935,2018,Nucleic_Acids_Res,IUPred2A: context-dependent prediction of protein disorder as a function of redox state and protein binding,yes,,,,,No,Yes,Yes,Pipeline,Other (Website),No,,,No,575,Female,Professor,Other,Postdoc,Postdoc,Other
+PMC6612848,2019,Bioinformatics,Large-scale mammalian genome rearrangements coincide with chromatin interactions,no,no,no,,,Yes,No (No access on BitBucket),No,pipeline,BitBucket,no,,,no,56,Male,Professor,CS,Postdoc,Postdoc,CS
+PMC6612824,2019,Bioinformatics,Prediction of mRNA subcellular localization using deep recurrent neural networks,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,46,Male,Professor,CS,Postdoc,Phd,CS
+PMC6792070,2019,Bioinformatics,The TMCrys server for supporting crystallization of transmembrane proteins,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,13,Male,Member ,Other,Phd,Phd,Molecular Genetics
+PMC6612899,2019,Bioinformatics,PRECISE: a domain adaptation approach to transfer predictors of drug response from pre-clinical models to tumors,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,29,Male,Director of Reseach,CS,Phd,Phd,Other
+PMC6612898,2019,Bioinformatics,MCS2: minimal coordinated supports for fast enumeration of minimal cut sets in metabolic networks,no,no,no,,,Yes,Yes,Yes,tool,GitHub,no,,,no,42,Male,Lecturer,CS,Phd,MS,CS
+PMC6954654,2019,Bioinformatics,scRNABatchQC: multi-samples quality control for single cell RNA-seq data,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,9,Male,Chair,Biostatistics,Phd,Phd,Bioinformatics
+PMC6761931,2019,Bioinformatics,GREP: genome for REPositioning drugs,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,12,Male,Professor,Statistical genetics,"MD,Phd",Phd,Genetics
+PMC6612875,2019,Bioinformatics,Representation transfer for differentially private drug sensitivity prediction,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,32,Male,Professor,CS,Phd,,
+PMC6612853,2019,Bioinformatics,Drug repositioning based on bounded nuclear norm regularization,no,no,no,,,Yes,Yes,Yes,Tool,GitHub,no,,,yes,29,Male,Professor,CS,Phd,Phd,CS
+PMC6761967,2019,Bioinformatics,Driver network as a biomarker: systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction,yes,,,,,No,Yes,Yes,Tool,GitHub,no,,,no,43,Male,Professor,CS,Postdoc,Phd,CS
+PMC6937815,2019,BMC_Bioinformatics,Benchmarking the PEPOP methods for mimicking discontinuous epitopes,no,yes,no,,,No,No,No,no,no,no,,,no,62,Female,Deputy Director,Other,Phd,,
+PMC6886252,2019,BMC_Bioinformatics,Liver tumor segmentation in CT volumes using an adversarial densely connected network,no,yes,no,,,No,No,No,no,no,no,,,no,33,Male,Professor,CS,Phd,Phd,CS
+PMC6884776,2019,BMC_Bioinformatics,Predicting protein inter-residue contacts using composite likelihood maximization and deep learning,no,yes,no,,,Yes,No (link does Not work),No,no,no,no,,,no,59,Male ,Associate Professor,CS,Phd,Postdoc,CS
+PMC6734328,2019,BMC_Bioinformatics,BINDER: computationally inferring a gene regulatory network for Mycobacterium abscessus,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,72,Female,Professor,Other,Postdoc,Md,Other
+PMC6929343,2019,BMC_Bioinformatics,An automated 3D modeling pipeline for constructing 3D models of MONOGENEAN HARDPART using machine learning techniques,no,yes,No (Available upon request),,,No,No,No,no,no,no,,,no,36,Female,Associate Professor,"CS, Bioinformatics",Phd,Phd,Bioinformatics
+PMC6557762,2019,BMC_Bioinformatics,A new fruit fly optimization algorithm enhanced support vector machine for diagnosis of breast cancer based on high-level features,no,yes,No (Available upon request),,,No,No,No,no,no,no,,,no,49,Male,Associate Chief Physician,Other,MD,,
+PMC6941187,2019,BMC_Bioinformatics,Venn-diaNet : venn diagram based network propagation analysis framework for comparing multiple biological experiments,no,no,yes,GEO,,Yes,Yes,Yes,tool,GitHub,no,,,yes,37,Male,Professor,CS,Phd,Phd,Bioinformatics
+PMC6528302,2019,BMC_Bioinformatics,Weekly ILI patient ratio change prediction using news articles with support vector machine,yes,,,,,No,No,No,no,no,no,,,no,19,Female,Team Leader,"Other, Biotechnology",Phd,,
+PMC6827178,2019,BMC_Bioinformatics,Predictive modelling using pathway scores: robustness and significance of pathway collections,yes,,,,,No,No,No,no,no,no,,,no,25,Male,Professor,Other,Postdoc,,
+PMC6421703,2019,BMC_Bioinformatics,MGSEA – a multivariate Gene set enrichment analysis,yes,,,,,Yes,Yes,Yes,tool,downloadable file,no,,,no,30,Male,Associate Researcher,CS,Phd,Postdoc,Bioinformatics
+PMC6463664,2019,Genome_Biol,Analysis of the recombination landscape of hexaploid bread wheat reveals genes controlling recombination and gene conversion frequency,no,yes,no,,,No,No,No,no,no,no,,,no,54,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC6423771,2019,Genome_Biol,Measuring the reproducibility and quality of Hi-C data,no,yes,no,,,Yes,Yes,Yes,Package,GitHub + Zenodo,no,,,yes,48,Male,Professor,CS,Phd,Postdoc,Computional Biology
+PMC6472072,2019,Genome_Biol,Bazam: a rapid method for read extraction and realignment of high-throughput sequencing data,no,yes,no,,,Yes,Yes,Yes,tool,Zenodo,no,,,yes,10,Female,Head ,Other ,Phd,Phd,Bioinformatics
+PMC6489363,2019,Genome_Biol,Measuring sequencer size bias using REcount: a novel method for highly accurate Illumina sequencing-based quantification,no,yes,no,,,Yes,Yes,Yes,Package,Zenodo,no,,,yes,56,Male,Director of Reseach,Other,Phd,Phd,Other
+PMC6862797,2019,Genome_Biol,Population-level analysis reveals the widespread occurrence and phenotypic consequence of DNA methylation variation not tagged by genetic variation in maize,yes,,,,,No,No,No,no,no,no,,,no,74,Male ,Professor,Other,Phd,Masters,Other
+PMC6631995,2019,Genome_Biol,"Stable enhancers are active in development, and fragile enhancers are associated with evolutionary adaptation",yes,,,,,No,No,No,no,no,no,,,no,54,Male,Senior Investigator,Computational Biology,Phd,Phd,"Other,Information Technology"
+PMC6816165,2019,Genome_Biol,RaGOO: fast and accurate reference-guided scaffolding of draft genomes,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,59,Male,Professor,CS,Phd,Phd ,CS
+PMC6927181,2019,Genome_Biol,Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,39,Male,Associate Professor,"Other, Statistics",Phd,Postdoc,Computional Biology
+PMC6883653,2019,Genome_Biol,ReorientExpress: reference-free orientation of nanopore cDNA reads with deep learning,yes,,,,,Yes,Yes,Yes,Package,GitHub + Zenodo,no,,,yes,23,Male,Professor,Other,Phd,,
+PMC6927166,2019,Genome_Biol,tmap: an integrative framework based on topological data analysis for population-scale microbiome stratification and association studies,yes,,,,,Yes,Yes,Yes,Package,GitHub + Zenodo,no,,,yes,62,,,,,,
+PMC6865045,2019,Genome_Med,Artificial intelligence in clinical and genomic diagnostics,no,no,no,,,No,No,No,,,,,,no,97,Male,Professor,"Other, Biomedical Sciences",Phd,Phd,Other
+PMC6938604,2019,Genome_Med,Keeping up with the genomes: scaling genomic variant interpretation,no,no,no,,,No,No,No,,,,,,no,11,Male,Associate Professor,Other,Phd,Phd,Genetics
+PMC6916512,2019,Genome_Med,Genomics of circadian rhythms in health and disease,no,no,no,,,No,No,No,,,,,,no,190,Male,Professor,Other,Postdoc,Phd,Other
+PMC6440005,2019,Genome_Med,Translating insights into tumor evolution to clinical practice: promises and challenges,no,no,no,,,No,No,No,,,,,,no,159,Male,Visiting Scientist ,Other,Postdoc,Phd,Other
+PMC6660700,2019,Genome_Med,A clinical survey of mosaic single nucleotide variants in disease-causing genes detected by exome sequencing,no,yes,no,,,No,No,No,,,,,,no,35,Male,Professor,"Other,Genetics","MD,Postdoc",Phd,Other
+PMC6822339,2019,Genome_Med,pTuneos: prioritizing tumor neoantigens from next-generation sequencing data,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,55,Female,Associate Professor,Bioinformatics,Phd,,
+PMC6767648,2019,Genome_Med,Identifying Crohn’s disease signal from variome analysis,no,yes,no,,,No,Yes,Yes,software,Other (Website),no,,,yes,58,Female,Associate Professor,Bioinformatics,Phd,Phd,Bioinformatics
+PMC6540526,2019,Genome_Med,Prognostic value of B cells in cutaneous melanoma,no,yes,yes,GEO,,No,No,No,,,,,,no,50,Male,Assistant Professor ,Other,MD,Phd,Bioinformatics
+PMC6916105,2019,Genome_Med,FIREVAT: finding reliable variants without artifacts in human cancer samples using etiologically relevant mutational signatures,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,68,Male,Professor,,,,
+PMC6661746,2019,Genome_Med,Molecular and pharmacological modulators of the tumor immune contexture revealed by deconvolution of RNA-seq data,yes,,,,,Yes,Yes,Yes,Pipeline,Other (Website),no,,,no,66,Male,Professor,"Other,Biomedical Engineering",Phd,Postdoc,Bioinformatics
+PMC6554452,2019,Nat_Biotechnol,Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts,no,yes,no,,,No,No,No,,,,,,no,59,Male,Professor,Other,"MD,Phd",Phd,Other
+PMC6894935,2019,Nat_Biotechnol,A highly soluble Sleeping Beauty transposase improves control of gene insertion,no,yes,no,,,No,No,No,,,,,,no,75,Female,Professor,Other,Phd,Phd,Other
+PMC7145761,2019,Nat_Biotechnol,An electroencephalographic signature predicts antidepressant response in major depression,no,yes,no,,,Yes,No (Cannot find the code),No,,,,,,no,70,Male,Professor,Other,"MD,Phd",Postdoc,Other
+PMC6954335,2019,Nat_Biotechnol,In situ readout of DNA barcodes and single base edits facilitated by in vitro transcription,no,yes,no,,,Yes,Yes,Yes,software,,no,,,no,70,Male,Professor,Other,Phd,Postdoc,Other
+PMC6587591,2019,Nat_Biotechnol,Capturing sequence diversity in metagenomes with comprehensive and scalable probe design,no,yes,yes,other,ENA,Yes,Yes,Yes,Package,GitHub,no,,,yes,75,Male,Director,Other,Postdoc,Phd,CS
+PMC6956735,2019,Nat_Biotechnol,A community effort to create standards for evaluating tumor subclonal reconstruction,no,yes,yes,other,EGA,Yes,Yes,Yes,Package,GitHub,no,,,yes,53,Male,Professor,Other,Phd,Phd,Other
+PMC6858544,2019,Nat_Biotechnol,Targeted isolation and cultivation of uncultivated bacteria by reverse genomics,yes,,,,,No,No,No,,,,,,no,94,Male,Group Leader,"Other,Genetics",Phd,Phd,Other
+PMC6730565,2019,Nat_Biotechnol,CRISPR DNA base editors with reduced RNA off-target and self-editing activities,yes,,,,,Yes,No (available upon request),No,,,,,,no,24,Male,Professor,"Other,Genetics","MD,Phd",MD,Other
+PMC7065968,2019,Nat_Biotechnol,Titrating gene expression using libraries of systematically attenuated CRISPR guide RNAs,yes,,,,,Yes,No (available upon request),No,,,,,,no,53,Male,Professor,Other,Phd,Phd,Other
+PMC6893138,2019,Nat_Biotechnol,High-throughput sequencing of the transcriptome and chromatin accessibility in the same cell,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,19,Male,Professor,Other,Phd,Postdoc,Other
+PMC6974401,2019,Nat_Genet,Identifying cross-disease components of genetic risk across hospital data in the UK Biobank,no,yes,no,,,No,No,No,,,,,,no,45,Male,Professor,Other,BA,Postdoc,Bioinformatics
+PMC6917484,2019,Nat_Genet,The impact of short tandem repeat variation on gene expression,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,yes,notebook,multiple,yes,68,Female,Assistant Professor ,"CS, Bioinformatics",Phd,Phd,Bioinformatics
+PMC6726478,2019,Nat_Genet,Inferring whole-genome histories in large population datasets,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,yes,notebook,single,yes,60,Male,Professor,Other,BA,Postdoc,CS
+PMC6686906,2019,Nat_Genet,Accurate estimation of SNP-heritability from biobank-scale data irrespective of genetic architecture,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,47,Male,Associate Professor,"CS, Bioinformatics",Postdoc,MS,Bioinformatics
+PMC6443099,2019,Nat_Genet,Transposable elements drive widespread expression of oncogenes in human cancers,yes,,,,,Yes,No,No,,,,,,yes,58,Male,Professor,Computational Biology,Phd,,
+PMC6441365,2019,Nat_Genet,Retinal transcriptome and eQTL analyses identify genes associated with age-related macular degeneration,yes,,,,,No,No,No,,,,,,no,52,Male,Professor,Other,Phd,Postdoc,"Other, Genetics"
+PMC7610650,2019,Nat_Genet,Determining protein structures using deep mutagenesis,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,73,Male,Professor,Other,Postdoc,Phd,Other
+PMC6756480,2019,Nat_Genet,A pooled single-cell genetic screen identifies regulatory checkpoints in the continuum of the epithelial-to-mesenchymal transition,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,64,Male,Associate Professor,CS,Postdoc,Phd,Other
+PMC6755913,2019,Nat_Genet,The ATPase module of mammalian SWI/SNF family complexes mediates subcomplex identity and catalytic activity-independent genomic targeting,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,39,Female,Associate Professor,Other,Phd,Postdoc,"Other, Genetics"
+PMC7451045,2019,Nat_Genet,Neuronal impact of patient-specific aberrant NRXN1α splicing,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,83,Female,Professor,Other,Phd,Phd,Other
+PMC6546603,2019,Nat_Methods,Bioluminescent-based imaging and quantification of glucose uptake in vivo,no,yes,no,,,No,No,No,,,,,,no,46,Female,Associate Professor,Other,Postdoc,Postdoc,Other
+PMC6549241,2019,Nat_Methods,"Aromatic 19F-13C TROSY: A background-free approach to probe biomolecular structure, function and dynamics",no,yes,no,,,No,No,No,,,,,,no,53,Male,Associate Professor,Other,Phd,Postdoc,Other
+PMC6532422,2019,Nat_Methods,A photo-cleavable surfactant for top-down proteomics,no,yes,no,,,No,No,No,,,,,,no,33,Female,Professor,Other,Phd,Postdoc,Other
+PMC6599567,2019,Nat_Methods,LADL: Light-activated dynamic looping for endogenous gene expression control,no,no,no,,,Yes,No (available upon request),No,,,,,,no,28,Female,Assistant Professor ,Other,Phd,Postdoc,"Other, Genomics"
+PMC6885017,2019,Nat_Methods,Real-time volumetric microscopy of in-vivo dynamics and large-scale samples with SCAPE 2.0,no,no,no,,,Yes,No (available upon request),No,,,,,,no,51,Female,Professor,Other,Postdoc,Phd,Other
+PMC6949130,2019,Nat_Methods,DIA-NN: Neural networks and interference correction enable deep proteome coverage in high throughput,no,yes,no,,,Yes,Yes,Yes,Software,GitHub,no,,,yes,32,Male,Professor,"Other, Genetics",Phd,,
+PMC7004891,2019,Nat_Methods,An adaptive excitation source for high speed multiphoton microscopy,no,no,no,,,Yes,Yes,Yes,Matlab,GitHub,no,,,no,21,Male,Professor,Other,Phd,Postdoc,CS
+PMC6519746,2019,Nat_Methods,One-step generation of modular CAR-T with AAV-Cpf1,yes,,,,,Yes,No (available upon request),No,,,,,,no,37,Male,Associate Professor,"Other, Genetics",Postdoc,Postdoc,Other
+PMC6675608,2019,Nat_Methods,Gene expression atlas of a developing tissue by single cell expression correlation analysis,yes,,,,,Yes,Yes,Yes,software,GitHub,yes,Rmd,single,yes,32,Male,Professor,Other,Postdoc,Phd,Other
+PMC7098173,2019,Nat_Methods,Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,54,Male,Professor,CS,Phd,Phd,CS
+PMC6451109,2019,Nucleic_Acids_Res,SMCHD1 is involved in de novo methylation of the DUX4-encoding D4Z4 macrosatellite,no,no,no,,,No,No,No,no,no,no,,,no,58,Female,Team Leader,"Other, Genetics",Phd,Postdoc,"Other, Genetics"
+PMC6943129,2019,Nucleic_Acids_Res,A single amino acid switch converts the Sleeping Beauty transposase into an efficient unidirectional excisionase with utility in stem cell reprogramming,no,no,no,,,No,No,No,no,no,no,,,no,99,Male,Professor,Other,Phd,,
+PMC6468246,2019,Nucleic_Acids_Res,TRF2 positively regulates SULF2 expression increasing VEGF-A release and activity in tumor microenvironment,no,no,no,,,No,No,No,no,no,no,,,no,56,,,,,,
+PMC6698742,2019,Nucleic_Acids_Res,Mapping of scaffold/matrix attachment regions in human genome: a data mining exercise,no,no,no,,,No,No,No,no,no,no,,,no,80,Male,Assistant Professor,Other,MS,MS,Bioinformatics
+PMC6868433,2019,Nucleic_Acids_Res,Characterization of the Type III restriction endonuclease PstII from Providencia stuartii,no,no,no,,,No,No,No,no,no,no,,,no,68,Male,Professor,Other,Phd,,
+PMC7145579,2019,Nucleic_Acids_Res,TFBSshape: an expanded motif database for DNA shape features of transcription factor binding sites,no,no,no,,,No,No,No,no,no,no,,,no,37,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC6895259,2019,Nucleic_Acids_Res,Citrus exocortis viroid causes ribosomal stress in tomato plants,no,no,no,,,No,No,No,no,no,no,,,no,70,Female,Professor,Other,Phd,MS,Other
+PMC7145620,2019,Nucleic_Acids_Res,CAUSALdb: a database for disease/trait causal variants identified using summary statistics of genome-wide association studies,no,no,no,,,No,Yes,Yes,pipeline,GitHub,no,,,yes,57,Male,Professor,Bioinformatics,Postdoc,Phd,Other
+PMC6736032,2019,Nucleic_Acids_Res,Metal sensing and regulation of adaptive responses to manganese limitation by MtsR is critical for group A streptococcus virulence,no,yes,yes,GEO,,No,No,No,,,,,,no,82,Male,Associate Professor,Other,Postdoc,Postdoc,Other
+PMC7038986,2019,Nucleic_Acids_Res,Disentangling sRNA-Seq data to study RNA communication between species,no,yes,yes,GEO,,No,Yes,Yes,pipeline,GitHub,yes,Rmd,single,no,66,Male,Assistant Professor,Other,Phd,Phd,Other
+PMC7355292,2020,Bioinformatics,MHCAttnNet: predicting MHC-peptide bindings for MHC alleles classes I and II using an attention-based deep neural model,no,no,no,,,Yes,Yes,Yes,Package,girthub,no,,,no,48,Male,Professor,CS,Phd,MS,CS
+PMC7355262,2020,Bioinformatics,Unsupervised topological alignment for single-cell multi-omics integration,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,27,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC7355291,2020,Bioinformatics,Copy number evolution with weighted aberrations in cancer,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,60,Male,Professor,Other,Phd,Phd,CS
+PMC7750928,2020,Bioinformatics,LuxUS: DNA methylation analysis using generalized linear mixed model with spatial correlation,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,23,Male,Associate Professor,,,Phd,CS
+PMC8336998,2020,Bioinformatics,quicksom: Self-Organizing Maps on GPUs for clustering of molecular dynamics trajectories,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,8,Male,,,,Phd,Bioinformatics
+PMC8352503,2020,Bioinformatics,MethPanel: a parallel pipeline and interactive analysis tool for multiplex bisulphite PCR sequencing to assess DNA methylation biomarker panels for disease detection,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,17,Female,Professor,Other,Postdoc,Phd,Bioinformatics
+PMC7355251,2020,Bioinformatics,TopicNet: a framework for measuring transcriptional regulatory network change,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,47,Male,Professor,Bioinformatics,Postdoc,Postdoc,Bioinformatics
+PMC7320608,2020,Bioinformatics,gplas: a comprehensive tool for plasmid analysis using short-read graphs,no,no,no,,,Yes,Yes,Yes,Package,gitlab,no,,,no,15,Female,Head of Group,Bioinformatics,Postdoc,Phd,Bioinformatics
+PMC7355259,2020,Bioinformatics,The locality dilemma of Sankoff-like RNA alignments,no,no,yes,other,GitHub,Yes,Yes,Yes,Package,GitHub,yes,notebook,multiple,yes,29,Male,Professor,CS,Phd,MS,Bioinformatics
+PMC8097688,2020,Bioinformatics,selectBoost: a general algorithm to enhance the performance of variable selection methods,yes,,,,,Yes,Yes,Yes,Pipeline,CRAN,no,,,no,52,Female,Lecturer,Other,Phd,Phd,Other
+PMC7083059,2020,BMC_Bioinformatics,2D electrophoresis image brightness correction based on gradient interval histogram,no,yes,no,,,No,No,No,,,,,,no,18,Male,Professor,Other,Phd,,
+PMC7646399,2020,BMC_Bioinformatics,"Developing the novel bioinformatics algorithms to systematically investigate the connections among survival time, key genes and proteins for Glioblastoma multiforme",no,yes,no,,,No,No,No,,,,,,no,53,Male,Professor,CS,Postdoc,,
+PMC7367324,2020,BMC_Bioinformatics,Deep user identification model with multiple biometric data,no,yes,no,,,No,No,No,,,,,,no,14,Male,Associate Professor,"Other, Information Technology",Phd,Phd,Other
+PMC7671827,2020,BMC_Bioinformatics,Alignment of biological networks by integer linear programming: virus-host protein-protein interaction networks,no,yes,no,,,No,No,No,,,,,,no,21,Male,Professor,Bioinformatics,Phd,Phd,CS
+PMC7288679,2020,BMC_Bioinformatics,PhyteByte: identification of foods containing compounds with specific pharmacological properties,no,yes,no,,,No,Yes,Yes,Tool,GitHub,yes,notebook,multiple,yes,25,Male,Assistant Professor,Other,Phd,Postdoc,Other
+PMC7372900,2020,BMC_Bioinformatics,LogicNet: probabilistic continuous logics in reconstructing gene regulatory networks,no,yes,no,,,No,Yes,Yes,Package,GitHub,no,,,yes,43,Male,Associate Professor,,,Phd,Other
+PMC7718714,2020,BMC_Bioinformatics,Regional registration of whole slide image stacks containing major histological artifacts,no,yes,no,,,Yes,Yes,Yes,Pipeline,GitHub,no,,,partial,28,Male,Head of Division,Other,Phd,Phd,CS
+PMC7191778,2020,BMC_Bioinformatics,2SigFinder: the combined use of small-scale and large-scale statistical testing for genomic island detection from a single genome,no,yes,no,,,No,Yes,Yes,Matlab,GitHub,no,,,no,46,Male,Assistant Professor,Other,Phd,Phd,Other
+PMC7014945,2020,BMC_Bioinformatics,GARS: Genetic Algorithm for the identification of a Robust Subset of features in high-dimensional datasets,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,35,,,,,,
+PMC7068914,2020,BMC_Bioinformatics,Dynamic incorporation of prior knowledge from multiple domains in biomarker discovery,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,27,Female,Assistant Professor,Other,MD,Phd,Other
+PMC7722319,2020,Genome_Biol,Response to “A reappraisal of the phylogenetic placement of the Aquilegia whole-genome duplication”,no,no,no,,,No,No,No,,,,,,no,none,Male,Assistant Professor,Other,Phd,,
+PMC7425127,2020,Genome_Biol,Sc3.0: revamping and minimizing the yeast genome,no,no,no,,,No,No,No,,,,,,no,14,Male,Professor,Bioinformatics,Postdoc,Phd,Other
+PMC7444084,2020,Genome_Biol,GBAT: a gene-based association test for robust detection of trans-gene regulation,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,42,Male,Associate Professor,Bioinformatics,Phd,Postdoc,"Other, Genetics"
+PMC7384222,2020,Genome_Biol,Bayesian model selection reveals biological origins of zero inflation in single-cell transcriptomics,no,no,no,,,No,Yes,Yes,Package,GitHub,no,,,no,33,Male,Professor,"Other, Biostatistics",Phd,Postdoc,CS
+PMC7477834,2020,Genome_Biol,Long-read-based human genomic structural variation detection with cuteSV,no,yes,no,,,Yes,Yes,Yes,Package,Zenodo,no,,,yes,53,Male,Professor,CS,MS,BS,Bioinformatics
+PMC7104480,2020,Genome_Biol,Avocado: a multi-scale deep tensor factorization method learns a latent representation of the human epigenome,no,yes,yes,other,ENCODE,Yes,Yes,Yes,Package,Zenodo/GitHub,no,,,yes,54,Male,Professor,CS,Phd,Postdoc,CS
+PMC7291511,2020,Genome_Biol,SURF: integrative analysis of a compendium of RNA-seq and CLIP-seq datasets highlights complex governing of alternative transcriptional regulation by RNA-binding proteins,yes,,,,,No,Yes,Yes,Package,GitHub,yes (partial),Rmd,single,no,81,Female,Professor,Other,Phd,Phd,Other
+PMC6979394,2020,Genome_Biol,CUBIC: an atlas of genetic architecture promises directed maize improvement,yes,,,,,No,Yes,Yes,Package,GitHub,no,,,no,82,Male,Professor,"Other, Genetics",Phd,Phd,Other
+PMC7236505,2020,Genome_Biol,tappAS: a comprehensive computational framework for the analysis of the functional impact of differential splicing,yes,,,,,Yes,Yes,Yes,Software,GitHub,no,,,yes,138,Female,Professor,Other ,Phd,Phd,Bioinformatics
+PMC7017486,2020,Genome_Biol,Genotyping structural variants in pangenome graphs using the vg toolkit,yes,,,,,Yes,Yes,Yes,Package,Zenodo/GitHub,no,,,yes,61,Male,Associate Professor,CS,Postdoc,Phd,Other
+PMC7523053,2020,Genome_Med,Understanding the impact of antibiotic perturbation on the human microbiome,no,yes,no,,,No,No,No,,,,,,no,123,Male,Professor,"Other, genetics",Postdoc,"MD, Phd",Other
+PMC7310558,2020,Genome_Med,Whole-genome sequence association analysis of blood proteins in a longitudinal wellness cohort,no,yes,no,,,No,No,No,,,,,,no,46,Male,Professor,Other,Posddoc,Postdoc,Other
+PMC7523332,2020,Genome_Med,Single-cell transcriptome analysis of tumor and stromal compartments of pancreatic ductal adenocarcinoma primary tumors and metastatic lesions,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,44,Male,Assistant Professor,Other,Phd,Phd,Other
+PMC7081711,2020,Genome_Med,Methylome-based cell-of-origin modeling (Methyl-COOM) identifies aberrant expression of immune regulatory molecules in CLL,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,no,94,Male,Professor,,Phd,Phd,Bioinformatics
+PMC7768597,2020,Genome_Med,Statistical power in COVID-19 case-control host genomic study design,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,29,Female,Associate Professor,"Other, Biostatistics",Postdoc,Phd,Other Statistics
+PMC7315544,2020,Genome_Med,Discovery of CD80 and CD86 as recent activation markers on regulatory T cells by protein-RNA single-cell analysis,no,yes,yes,GEO,,No,No,No,,,,,,no,59,Male,Senior Research Associate,"Other, Genetics",Postdoc,,
+PMC7031924,2020,Genome_Med,A chromosomal connectome for psychiatric and metabolic risk variants in adult dopaminergic neurons,no,yes,yes,GEO,,No,No,No,,,,,,no,114,Male,Professor,Other,"MD,Phd",Postdoc,Bioinformatics
+PMC7036260,2020,Genome_Med,Cell-free DNA analysis reveals POLR1D-mediated resistance to bevacizumab in colorectal cancer,no,yes,yes,GEO,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,78,Male,Professor,"CS,Genetics","MD,Postdoc",,
+PMC7708171,2020,Genome_Med,Whole blood co-expression modules associate with metabolic traits and type 2 diabetes: an IMI-DIRECT study,yes,,,,,No,Yes,Yes,Package,GitHub,yes,Rmd,multiple,no,63,Male,Head of Research,Computational Biology,Phd,Phd,Other
+PMC7687775,2020,Genome_Med,Genetic feature engineering enables characterisation of shared risk factors in immune-mediated diseases,yes,,,,,Yes,Yes,Yes,Package,Zenodo/GitHub,no,,,yes,65,Male,Director of Research,"Other, Genetics",Phd,Phd,
+PMC7520880,2020,Nat_Biotechnol,Whither COVID-19 vaccines?,no,no,no,,,No,No,No,,,,,,no,28,Female,Senior Editor,Other,Postdoc,,
+PMC7418581,2020,Nat_Biotechnol,A singular view of COVID-19,no,no,no,,,No,No,No,,,,,,no,0,Male,Technology Editor,Other ,MS,,
+PMC7416462,2020,Nat_Biotechnol,Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing,no,yes,no,,,Yes,Yes,Yes,Analytical,10xGenomics,yes,notebook,multiple,yes,64,Female,Assistant Professor,"Other, Genetics",Phd,Phd,"Other, Genetics"
+PMC7541396,2020,Nat_Biotechnol,Analyzing the M. tuberculosis immune response by T cell receptor clustering with GLIPH2 and genome-wide antigen screening,no,yes,no,,,Yes,Yes,Yes,software,downloadable file,uncertain,uncertain,uncertain,no,65,Male,Professor,Other ,Phd,Phd,"Other, Biotechnology"
+PMC7878194,2020,Nat_Biotechnol,Context-aware dimensionality reduction deconvolutes gut microbial community dynamics,no,yes,no,,,Yes,Yes,Yes,Tool,GitHub,yes,notebook,multiple,yes,18,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC7454550,2020,Nat_Biotechnol,Thank you for sharing,no,no,no,,,,,,,,,,,,0,,,,,,
+PMC7008032,2020,Nat_Biotechnol,An integrated perfusion machine preserves injured human livers for 1 week,no,yes,No (Available upon request),,,No,No,No,,,,,,no,94,Male,Professor,Other,MD,MD,Other
+PMC7854778,2020,Nat_Biotechnol,CRISPR C-to-G base editors for inducing targeted DNA transversions in human cells,no,yes,yes,SRA,,Yes,No (available upon request),No,,,,,,no,93,Male,Professor,"Other, Genetics","MD, Phd",Phd,Other
+PMC7878201,2020,Nat_Biotechnol,Single-cell metabolic profiling of human cytotoxic T cells,no,yes,yes,other,Zenodo,Yes,No (available upon request),No,,,,,,no,47,Male,Professor,Other,Phd,Postdoc,Other
+PMC7855056,2020,Nat_Biotechnol,A long-term study of AAV gene therapy in hemophilia A dogs identifies clonal expansions of transduced liver cells,yes,,,,,Yes,Yes,Yes,uncertain,Zenodo,no,,,yes,42,Female,Assistant Professor,"Other, Genetics",Phd,B.S,Other
+PMC7343608,2020,Nat_Genet,Mendelian randomization accounting for correlated and uncorrelated pleiotropic effects using genome-wide summary statistics,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,67,Male,Associate Professor,CS,Phd,Phd,"Other, Biostatistics"
+PMC7610456,2020,Nat_Genet,The mutational signature profile of known and suspected human carcinogens in mice,no,yes,no,,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,23,Male,Senior Group Leader,Other ,Phd,Phd,Other
+PMC7808397,2020,Nat_Genet,Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,66,Female,Principal Investigator,Other,"MD, Phd",Postdoc,"Other, Biostatistics"
+PMC7610467,2020,Nat_Genet,Evolutionary dynamics of neoantigens in growing tumors,no,yes,no,,,Yes,Yes,Yes,Package,Zenodo,no,,,yes,19,Male,Professor,Other,Postdoc,Postdoc,"Other, Bioinformatics"
+PMC7343625,2020,Nat_Genet,Multi-cancer analysis of clonality and the timing of systemic spread in paired primary tumors and metastases,no,yes,yes,other,European Genotype Phenotype Archive,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,70,Female,Associate Professor,Bioinformatics,Phd,,
+PMC7796998,2020,Nat_Genet,Genetic screening for single-cell variability modulators driving therapy resistance,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,yes,16,Male,Professor,Other,Phd,"MD, Phd",Other
+PMC7138649,2020,Nat_Genet,Three-dimensional chromatin landscapes in T cell acute lymphoblastic leukemia,no,yes,yes,GEO,,Yes,Yes,Yes,pipeline,GitHub,no,,,yes,39,Male,Professor,"CS, Bioinformatics",Postdoc,Phd,"CS,Bioinformatics"
+PMC7610464,2020,Nat_Genet,Phenome-wide Mendelian randomization mapping the influence of the plasma proteome on complex diseases,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,59,Male,Professor,Other,Postdoc,Phd,Other
+PMC7610512,2020,Nat_Genet,Regulation of single-cell genome organization into TADs and chromatin nanodomains,yes,,,,,Yes,Yes,Yes,Matlab scripts,GitHub,no,,,yes,39,Male,Research Director ,Other,Postdoc,Postdoc,"Other, Genetics"
+PMC7343611,2020,Nat_Genet,Lymph node metastases develop through a wider evolutionary bottleneck than distant metastases,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,yes,notebook,multiple,yes,31,Female,Assistant Professor,Other,Phd,Postdoc,CS
+PMC7610413,2020,Nat_Methods,Up to 100-fold speedup and multiplexing in optimized DNA-PAINT,no,yes,no,,,No,No,No,,,,,,no,33,Male,Professor,Other,Postdoc,Postdoc,Other
+PMC7799389,2020,Nat_Methods,Time-resolved cryoEM using Spotiton,no,yes,no,,,No,No,No,,,,,,no,34,Female,Adjunct Professor,Other,Phd,Postdoc,Other
+PMC7302119,2020,Nat_Methods,Kaspar Podgorski,no,no,no,,,No,No,No,,,,,,,0,Male,Technology Editor,Other,M.A.,,
+PMC7199528,2020,Nat_Methods,Kilohertz two-photon fluorescence microscopy imaging of neural activity in vivo,no,yes,no,,,No,No,No,,,,,,no,68,Female,Associate Professor,Other,Postdoc,Postdoc,Other
+PMC7359951,2020,Nat_Methods,Deep three-photon imaging of the brain in intact adult zebrafish,no,yes,no,,,Yes,No (available upon request),No,,,,,,no,67,Male,Professor,Other,Phd,Postdoc,"Other, Biostatistics"
+PMC8073243,2020,Nat_Methods,Supervised enhancer prediction with epigenetic pattern recognition and targeted validation,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,24,Male,Professor,Bioinformatics,Postdoc,Phd,Other
+PMC7192636,2020,Nat_Methods,Rapid mesoscale volumetric imaging of neural activity with synaptic resolution,no,yes,no,,,Yes,Yes,Yes,Matlab scripts,Supplementary,no,,,yes,47,Female,Associate Professor,Other,Postdoc,Phd,Other
+PMC7541687,2020,Nat_Methods,Detecting chromatin interactions between and along sister chromatids with SisterC,no,yes,yes,GEO,,Yes,Yes,Yes,pipeline,GitHub,no,,,no,6,Male,Professor,Other,Phd,Phd,Other
+PMC7437817,2020,Nat_Methods,Cumulus provides cloud-based data analysis for large-scale single-cell and single-nucleus RNA-seq,no,yes,yes,SRA,,Yes,Yes,Yes,Package,GitHub,no,,,yes,37,Female,Professor,Bioinformatics,Phd,Postdoc,CS
+PMC7357298,2020,Nat_Methods,Pooled CRISPR screens with imaging on microRaft arrays reveals stress granule-regulatory factors,no,yes,yes,GEO,,Yes,Yes,Yes,Analytical,GitHub,yes,notebook,multiple,no,19,Male,Professor,Computational Neuroscience,"Phd,MBA",Phd,Other
+PMC7192605,2020,Nucleic_Acids_Res,A novel NGS library preparation method to characterize native termini of fragmented DNA,no,yes,no,,,No,No,No,,,,,,no,45,Male,Assistant Professor,Other,Phd,Postdoc,Other
+PMC7641733,2020,Nucleic_Acids_Res,HydraPsiSeq: a method for systematic and quantitative mapping of pseudouridines in RNA,no,no,no,,,No,No,No,,,,,,no,79,Male,Professor,Other,Postdoc,Postdoc,Other
+PMC7778890,2020,Nucleic_Acids_Res,"RBP2GO: a comprehensive pan-species database on RNA-binding proteins, their interactions and functions",no,yes,no,,,No,No,No,,,,,,no,53,Male,Professor,Other,Postdoc,,
+PMC7797046,2020,Nucleic_Acids_Res,The nature of the modification at position 37 of tRNAPhe correlates with acquired taxol resistance,no,no,no,,,No,No,No,,,,,,no,77,Male,Professor,Other,BSc,Phd,Other
+PMC7897472,2020,Nucleic_Acids_Res,Entropy subspace separation-based clustering for noise reduction (ENCORE) of scRNA-seq data,no,yes,no,,,No,Yes,Yes,software,GitHub,no,,,no,38,Male,Professor,Other,Phd,Postdoc,Other
+PMC7797069,2020,Nucleic_Acids_Res,The transcriptional repressors VAL1 and VAL2 recruit PRC2 for genome-wide Polycomb silencing in Arabidopsis,yes,,,,,No,No,No,,,,,,no,68,Male,Professor,Other,Phd,Phd,Other
+PMC7779005,2020,Nucleic_Acids_Res,DualSeqDB: the host–pathogen dual RNA sequencing database for infection processes,yes,,,,,No,No,No,,,,,,no,26,Male,Associate Professor,Other,Postdoc,Phd,Bioinformatics
+PMC7826286,2020,Nucleic_Acids_Res,Chromatin structure restricts origin utilization when quiescent cells re-enter the cell cycle,yes,,,,,No,No,No,,,,,,no,70,Female,Professor,"Other,Genetics",Phd,Postdoc,Other
+PMC7641319,2020,Nucleic_Acids_Res,Regulation of alginate catabolism involves a GntR family repressor in the marine flavobacterium Zobellia galactanivorans DsijT,yes,,,,,No,No,No,,,,,,no,92,Male,PostDoc,Other,Postdoc,,
+PMC7544197,2020,Nucleic_Acids_Res,Unbiased investigation of specificities of prime editing systems in human cells,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,47,Male,Head,Other,Phd,Phd,Other
+PMC7989618,2021,Bioinformatics,COVID-19: disease pathways and gene expression changes predict methylprednisolone can improve outcome in severe cases,no,no,no,,,No,No,No,,,,,,no,13,Male,Professor,Other,"MD, Phd",Phd,CS
+PMC8136008,2021,Bioinformatics,VisuaLife: library for interactive visualization in rich web applications,no,no,no,,,Yes,Yes,Yes,Package,BitBucket,no,,,no,1,Male,Faculty ,Other,Phd,MS,Other
+PMC8428582,2021,Bioinformatics,"Mercator: a pipeline for multi-method, unsupervised visualization and distance generation",no,yes,no,,,Yes,Yes,Yes,Pipeline,CRAN,yes,Rmd,multiple,uncertain,2,Male,Professor,Other,Postdoc,Postdoc,Bioinformatics
+PMC8406877,2021,Bioinformatics,Transfer learning via multi-scale convolutional neural layers for human–virus protein–protein interaction prediction,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,1,Male,Professor,Other,MSc,Phd,Other
+PMC8135978,2021,Bioinformatics,Alignment free sequence comparison methods and reservoir host prediction,no,no,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,0,Male,Professor,Other,Phd,MS,CS
+PMC8034537,2021,Bioinformatics,EM-stellar: benchmarking deep learning for electron microscopy image segmentation,no,no,no,,,Yes,Yes,Yes,Jupyter Notebook,gitub,yes,notebook,multiple,yes,2,Male,Senior Lecturer,Other,Phd,Phd,Other
+PMC8388021,2021,Bioinformatics,BloodGen3Module: blood transcriptional module repertoire analysis and visualization using R,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,no,3,Male,Principle Scientist,Other,Postdoc,Postdoc,Other
+PMC8136078,2021,Bioinformatics,SeRenDIP-CE: sequence-based interface prediction for conformational epitopes,yes,,,,,Yes,No,Yes,Pipeline,Other (Website),no,,,no,2,Male,Assistant Professor,Bioinformatics,Postdoc,Phd,Bioinformatics
+PMC8034526,2021,Bioinformatics,The iPPI-DB initiative: a community-centered database of protein–protein interaction modulators,yes,,,,,No,Yes,Yes,Package,gitlab,no,,,no,5,Male,Group Leader,Bioinformatics,Phd,MSc,Bioinformatics
+PMC8388031,2021,Bioinformatics,CuBlock: a cross-platform normalization method for gene-expression microarrays,yes,,,,,Yes,Yes,Yes,Pipeline,Other (Website),uncertain,uncertain,uncertain,uncertain,1,Male,Adjunct Professor,Other,Phd,Phd,Bioinformatics
+PMC8052714,2021,BMC_Bioinformatics,Cancer immune control dynamics: a clinical data driven model of systemic immunity in patients with metastatic melanoma,no,yes,no,,,No,No,No,,,,,,no,0,Male,Faculty ,Other,"MD,Phd",MD,Other
+PMC8254361,2021,BMC_Bioinformatics,PhyliCS: a Python library to explore scCNA data and quantify spatial tumor heterogeneity,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,0,Male,Research Assistant,Other,MSc,MS,CS
+PMC7936459,2021,BMC_Bioinformatics,SomatoSim: precision simulation of somatic single nucleotide variants,no,yes,no,,,No,Yes,Yes,Package,GitHub,no,,,no,1,Male,Director,Other,MD,BS,Other
+PMC8011138,2021,BMC_Bioinformatics,Six genes involved in prognosis of hepatocellular carcinoma identified by Cox hazard regression,yes,,,,,No,No,No,,,,,,no,2,Male,Professor,,,Postdoc,Other
+PMC8220828,2021,BMC_Bioinformatics,A convolutional neural network-based regression model to infer the epigenetic crosstalk responsible for CG methylation patterns,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,no,0,Male,Professor,"Other, Genetics","MD,Phd",Phd,Other
+PMC7877041,2021,BMC_Bioinformatics,Ranking cancer drivers via betweenness-based outlier detection and random walks,yes,,,,,No,Yes,Yes,Pipeline,GitHub,no,,,yes,0,Female,Associate Professor,CS,Phd,Phd,Other
+PMC7852121,2021,BMC_Bioinformatics,Search for SINE repeats in the rice genome using correlation-based position weight matrices,yes,,,,,No,No,No,,,,,,,0,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC8340394,2021,BMC_Bioinformatics,Maximum parsimony reconciliation in the DTLOR model,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,no,0,Male,Professor,CS,Phd,Phd,Other
+PMC7869453,2021,BMC_Bioinformatics,NGlyAlign: an automated library building tool to align highly divergent HIV envelope sequences,yes,,,,,No,Yes,Yes,Tool,GitHub,no,,,no,1,Male,Emiretus Professor,Other,Phd,Postdoc,CS
+PMC8296540,2021,BMC_Bioinformatics,METAMVGL: a multi-view graph-based metagenomic contig binning algorithm by integrating assembly and paired-end graphs,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,no,,,no,1,Male,Assistant Professor,CS,Postdoc,Postdoc,"CS,Bioinformatics"
+PMC8419911,2021,Genome_Biol,"Oncogene Concatenated Enriched Amplicon Nanopore Sequencing for rapid, accurate, and affordable somatic mutation detection",no,yes,no,,,No,No,No,,,,,,no,0,Male,Associate Professor,CS,Phd,Postdoc,Other
+PMC8385897,2021,Genome_Biol,Community-wide hackathons to identify central themes in single-cell multi-omics,no,no,no,,,No,No,No,,,,,,no,1,Female,Director of Division,"Other, Computational Biology",Phd,Phd,Other
+PMC8082814,2021,Genome_Biol,The impact of cell type and context-dependent regulatory variants on human immune traits,no,yes,no,,,No,No,No,,,,,,no,4,Male,Assistant Professor,CS,Postdoc,B.S,Other
+PMC7945310,2021,Genome_Biol,Identification of pathogenic variants in cancer genes using base editing screens with editing efficiency correction,no,yes,no,,,Yes,Yes,Yes,Package,Zenodo,no,,,yes,4,Male,Professor,"Other, Genetics",Postdoc,Phd,Other
+PMC7784034,2021,Genome_Biol,Histone modifications during the life cycle of the brown alga Ectocarpus,no,yes,yes,GEO,,No,No,No,,,,,,no,7,Male,Senior Researcher,Other,Phd,Postdoc,Other
+PMC8118107,2021,Genome_Biol,Multi-omic profiling of lung and liver tumor microenvironments of metastatic pancreatic cancer reveals site-specific immune regulatory pathways,no,yes,yes,GEO,,No,No,No,,,,,,no,0,Female,Associate Professor,Other,Phd,MD,Other
+PMC8273981,2021,Genome_Biol,Telomere-to-telomere assembly of a fish Y chromosome reveals the origin of a young sex chromosome pair,no,yes,yes,SRA,,Yes,Yes,Yes,Shell Script,GitHub,no,,,yes,3,Male,Postdoc Reseacher,"Other, Genetics",Phd,Phd,Other
+PMC8004462,2021,Genome_Biol,Meta-analysis of genome-wide DNA methylation identifies shared associations across neurodegenerative disorders,no,yes,yes,GEO,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,4,Male,Fellow,"Other,Genetics",Phd,Phd,Other
+PMC8218388,2021,Genome_Biol,SPARK-X: non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,no,,,yes,1,Male,Associate Professor,Other,Phd,Phd,Biostatistics
+PMC7798263,2021,Genome_Biol,Uncovering deeply conserved motif combinations in rapidly evolving noncoding sequences,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,3,Male,Associate Professor,CS,Postdoc,Postdoc,Bioinformatics
+PMC8048219,2021,Genome_Med,Emerging genetic complexity and rare genetic variants in neurodegenerative brain diseases,no,yes,no,,,No,No,No,,,,,,no,2,Female,Professor,"Other, Genetics",Phd,Postdoc,Other
+PMC7836461,2021,Genome_Med,Comprehensive molecular characterization of gastric cancer patients from phase II second-line ramucirumab plus paclitaxel therapy trial,no,yes,no,,,Yes,No,No,,,,,,no,2,Female,Professor,Other,MD,MD,Other
+PMC8182898,2021,Genome_Med,"Genetic subtypes, allelic effects, and convergent neurodevelopmental mechanisms",no,no,no,,,No,No,No,,,,,,no,0,Male,Assistant Professor,"Other, Genetics",Phd,Phd,"Other, Biotechnology"
+PMC7988935,2021,Genome_Med,CACTUS: integrating clonal architecture with genomic clustering and transcriptome profiling of single tumor cells,no,yes,no,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,1,Female,Assistant Professor,"Other,Genetics",Postdoc,Phd,CS
+PMC8375061,2021,Genome_Med,Multi-omics of the esophageal microenvironment identifies signatures associated with progression of Barrett’s esophagus,no,no,no,,,Yes,Yes,Yes,Analytical,Zenodo,no,,,yes,1,Male,Associate Professor,,,Phd,Bioinformatics
+PMC8008663,2021,Genome_Med,Emergence and evolution of antimicrobial resistance genes and mutations in Neisseria gonorrhoeae,yes,,,,,No,No,No,,,,,,no,6,Male,Professor,Other,"MD,Phd",MD,Other
+PMC7845089,2021,Genome_Med,Highly elevated polygenic risk scores are better predictors of myocardial infarction risk early in life than later,yes,,,,,No,No,No,,,,,,no,7,Male,Professor,Other,Phd,Phd,Bioinformatics
+PMC8438989,2021,Genome_Med,Whole-genome sequence-informed MALDI-TOF MS diagnostics reveal importance of Klebsiella oxytoca group in invasive infections: a retrospective clinical study,yes,,,,,Yes,Yes,Yes,Package,GitHub,no,,,yes,0,Male,Head of Divison,Other,Postdoc,Phd,Other
+PMC8127495,2021,Genome_Med,An atlas connecting shared genetic architecture of human diseases and molecular phenotypes provides insight into COVID-19 susceptibility,yes,,,,,No,Yes,Yes,Package,GitHub,no,,,no,8,Male,Associate Professor,Other,"MD,Phd",Phd,Other
+PMC8383430,2021,Genome_Med,Developmental dynamics of voltage-gated sodium channel isoform expression in the human and mouse brain,yes,,,,,No,Yes,Yes,pipeline,GitHub,no,,,yes,12,Male,Associate Professor,"Other,Genetics",Phd,BSc,Bioinformatics
+PMC8241208,2021,Nat_Biotechnol,‘Super-antibodies’ could curb COVID-19 and help avert future pandemics,no,no,no,,,No,No,No,,,,,,no,4,Male,Science Journalist,"Other,Genetics",Phd,,
+PMC7793390,2021,Nat_Biotechnol,COVID-19 antibodies on trial,no,no,no,,,No,No,No,,,,,,no,69,Female,Senior Editor,Other,Postdoc,,
+PMC8277229,2021,Nat_Biotechnol,COVID-19 long haulers,no,no,no,,,No,No,No,,,,,,no,2,Male,Freelance Writer,Other,MS,,
+PMC8095470,2021,Nat_Biotechnol,The viral arms race,no,no,no,,,No,No,No,,,,,,no,0,,,,,,
+PMC8218965,2021,Nat_Biotechnol,‘Super-antibodies’ could curb COVID-19 and help avert future pandemics,no,no,no,,,No,No,No,,,,,,no,4,Male,Science Journalist,"Other, Genetics",Phd,,
+PMC8023346,2021,Nat_Biotechnol,Radical solutions,no,no,no,,,No,No,No,,,,,,no,0,,,,,,
+PMC8061880,2021,Nat_Biotechnol,Slivers of the spectrum,no,no,no,,,No,No,No,,,,,,no,1,Female,Writer and Editor,Other,MS,,
+PMC8016152,2021,Nat_Biotechnol,Biotech bubbles during the global recession,no,no,no,,,No,No,No,,,,,,no,0,Female,Analyst and Specialist Writer,Other,BSc,,
+PMC7842168,2021,Nat_Biotechnol,Refreshing the biologic pipeline 2020,no,no,no,,,No,No,No,,,,,,no,1,Male,Editor in Chief,Other,Phd,,
+PMC7610786,2021,Nat_Biotechnol,Author Correction: ChIP-seq of plasma cell-free nucleosomes identifies gene expression programs of the cells of origin,no,no,no,,,No,No,No,,,,,,no,12,Male,Professor,CS,Postdoc,Phd,Other
+PMC7781176,2021,Nat_Genet,Exploring the structural distribution of genetic variation in SARS-CoV-2 with the COVID-3D online resource,no,no,no,,,No,Yes,Yes,pipeline,Other (Website),uncertian,uncertain,uncertain,no,1,Male,Professor,Other,Phd,Phd,"Other, Computational Biology"
+PMC8011839,2021,Nat_Genet,Characterizing the molecular regulation of inhibitory immune checkpoints with multi-modal single-cell screens.,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,no,18,Male,Professor,Other,Postdoc,Phd,Other
+PMC8038968,2021,Nat_Genet,Human-chimpanzee fused cells reveal cis-regulatory divergence underlying skeletal evolution,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,yes,6,Male,Assistant Professor,Other,Phd,Postdoc,Other
+PMC7610396,2021,Nat_Genet,A Unique Bipartite Polycomb Signature Regulates Stimulus-Response Transcription during Development,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,yes,3,Male,Professor,Other,Postdoc,,
+PMC7946813,2021,Nat_Genet,Liquid chromatin Hi-C characterizes compartment-dependent chromatin interaction dynamics,no,yes,yes,GEO,,Yes,Yes,Yes,Package,GitHub,no,,,yes,15,Male,Professor,Other,Phd,Phd,"Other, Biomedical Science"
+PMC7611259,2021,Nat_Genet,Shared genetic pathways contribute to risk of hypertrophic and dilated cardiomyopathies with opposite directions of effect,yes,,,,,No,No,No,,,,,,no,29,,,,,,
+PMC7946812,2021,Nat_Genet,VisuaLife: library for interactive visualization in rich web applications,yes,,,,,No,No,No,,,,,,no,16,Female,Professor,Other,"MD, Phd",Phd,"Other, Genetics"
+PMC8148035,2021,Nat_Genet,Trans-ancestry genome-wide association meta-analysis of prostate cancer identifies new susceptibility loci and informs genetic risk prediction,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,44,Male,Co-Leader,Other,ScD,Phd,"Other,Genetics"
+PMC7610386,2021,Nat_Genet,"Genome-wide meta-analysis, fine-mapping, and integrative prioritization implicate new Alzheimer’s disease risk genes",yes,,,,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,42,Male,Head of Research,"Other, Genetics",Postdoc,Postdoc,"Other, Genetics"
+PMC7944648,2021,Nat_Genet,Identification of rare and common regulatory variants in pluripotent cells using population-scale transcriptomics,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,no,,,yes,11,Male,Head,Other,Postdoc,Postdoc,Bioinformatics
+PMC8369446,2021,Nat_Methods,Tools to cut the sweet layer-cake that is glycoproteomics,no,no,no,,,No,No,No,,,,,,no,1,Male,Editor,Other,MA,,
+PMC8081406,2021,Nat_Methods,Scientists set out to connect the dots on long COVID,no,no,no,,,No,No,No,,,,,,no,10,Male,Editor,Other,MA,,
+PMC7611018,2021,Nat_Methods,Multi-particle cryo-EM refinement with M visualizes ribosome-antibiotic complex at 3.5 Å in cells,no,yes,no,,,Yes,Yes,Yes,Software,GitHub,no,,,yes,39,Female,Group Leader,Other,Postdoc,Postdoc,CS
+PMC8035334,2021,Nat_Methods,Deep Learning-Based Point-Scanning Super-Resolution Imaging,no,no,no,,,Yes,Yes,Yes,Pipeline,GitHub,yes,notebook,multiple,no,36,Male,Assistant Professor,Other,Postdoc,MS,Other
+PMC8107123,2021,Nat_Methods,Real-time volumetric reconstruction of biological dynamics with light-field microscopy and deep learning,no,yes,no,,,Yes,Yes,Yes,Pipeline,GitHub,yes,notebook,multiple,no,16,Male,Professor,Other,Postdoc,Phd,Other
+PMC7954905,2021,Nat_Methods,Joint profiling of histone modifications and transcriptome in single cells from mouse brain,no,yes,yes,GEO,,Yes,Yes,Yes,Pipeline,GitHub,no,,,yes,20,Male,Professor,Other,Phd,Phd,Other
+PMC7954958,2021,Nat_Methods,Decoding the protein composition of whole nucleosomes with Nuc-MS,yes,,,,,No,No,No,,,,,,no,9,Male,Professor,Other,Phd,Phd,Other
+PMC7611169,2021,Nat_Methods,Structured illumination microscopy with noise-controlled image reconstructions,yes,,,,,Yes,Yes,Yes,Pipeline,GitHub,no,,,no,3,Male,Professor,Other,Phd,Phd,Other
+PMC7954949,2021,Nat_Methods,Joint probabilistic modeling of single-cell multi-omic data with totalVI,yes,,,,,Yes,Yes,Yes,Analytical,GitHub,yes,notebook,multiple,yes,31,Male,Associate Professor,Other,Phd,Phd,CS
+PMC8272231,2021,Nat_Methods,Dual DNA and protein tagging of open chromatin unveils dynamics of epigenomic landscapes in leukemia,yes,,,,,Yes,Yes,Yes,Package,GitHub,yes,Rmd,multiple,yes,2,Male,Professor,"Other, Genetics","MD, Phd",Postdoc,Other
+PMC7968994,2021,Nucleic_Acids_Res,DHX29 reduces leaky scanning through an upstream AUG codon regardless of its nucleotide context,no,no,no,,,No,No,No,,,,,,no,15,,,,,,
+PMC8421218,2021,Nucleic_Acids_Res,c-kit2 G-quadruplex stabilized via a covalent probe: exploring G-quartet asymmetry,no,yes,no,,,No,No,No,,,,,,no,0,Male,Researcher,Other,Postdoc,Phd,Other
+PMC8034638,2021,Nucleic_Acids_Res,Corrigendum to article “A programmable omnipotent Argonaute nuclease from mesophilic bacteria Kurthia massiliensis’’,no,no,no,,,No,No,No,,,,,,no,7,Female,Associate Professor,Other,Postdoc,,
+PMC8262695,2021,Nucleic_Acids_Res,GEPIA2021: integrating multiple deconvolution-based analysis into GEPIA,no,yes,no,,,No,Yes,Yes,Package,GitHub,no,,,yes,12,,,,,,
+PMC8053121,2021,Nucleic_Acids_Res,A programmable pAgo nuclease with universal guide and target specificity from the mesophilic bacterium Kurthia massiliensis,no,yes,yes,GEO,,No,No,No,,,,,,no,2,Male,Professor,,,,
+PMC7897508,2021,Nucleic_Acids_Res,Crystal structure of a tick-borne flavivirus RNA-dependent RNA polymerase suggests a host adaptation hotspot in RNA viruses,no,yes,yes,other,Protein Data Bank,No,No,No,,,,,,no,1,Male,Professor,Other,Phd,Phd,CS
+PMC8216272,2021,Nucleic_Acids_Res,G-quadruplex-forming aptamer enhances the peroxidase activity of myoglobin against luminol,no,yes,yes,other,Protein Data Bank,No,No,No,,,,,,no,1,Male,Professor,Other,Phd,Phd,Other
+PMC7897473,2021,Nucleic_Acids_Res,Structural insights into the substrate specificity of the endonuclease activity of the influenza virus cap-snatching mechanism,no,yes,yes,other,Protein Data Bank,No,No,No,,,,,,no,3,Male,Professor,Other,Phd,Phd,Other
+PMC8136789,2021,Nucleic_Acids_Res,Implication of repeat insertion domains in the trans-activity of the long non-coding RNA ANRIL,yes,,,,,No,No,No,,,,,,no,2,Male,Postdoc Researcher ,Other,Phd,Postdoc,Other
+PMC8287924,2021,Nucleic_Acids_Res,Architecture and evolution of subtelomeres in the unicellular green alga Chlamydomonas reinhardtii,yes,,,,,No,Yes,Yes,Analytical,Supplementary,no,,,no,1,Male,Professor,Other,Postdoc,,
