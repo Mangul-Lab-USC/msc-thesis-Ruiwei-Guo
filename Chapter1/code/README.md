@@ -1,0 +1,1 @@
+The file was generated from a Python script utilizing the package ElementTree to systematically extract publication metadata from XML files from the PMC open-access corpus for eight unique journals ranging from the year 2016 to 2021 including commercial and non-commercial use subsets.
