@@ -11,7 +11,7 @@ Below is a complete list of columns, some of them are explained to avoid confusi
 6.**Data availability statement (yes/no)** - if the authors claim that data is available(yes/no)\
 7.**Data availability (yes/no)** - data availability de facto (yes/no)\
 8.**"If Data availability = yes, where do they share data? (SRA/GEO/other)"**\
-9.**"If other database, specifiy which one"**,
+9.**"If other database, specifiy which one"**\
 10.**Code availability statement (Yes/No)** - if the authors claim that data is available(yes/no)\
 11.**Code availability (Yes/No (reason))**  - data availability de facto (yes/no)(reason)\
 12.**Code availability (Yes/No)**\
