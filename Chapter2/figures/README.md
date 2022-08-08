@@ -1,4 +1,4 @@
-These figures were generated from Jupyter Notebook file chapter1_data_availability.ipynb available at code subdirectory within Chapter 2 directory.
+These figures were generated from Jupyter Notebook file chapter2_code_availability.ipynb available at code subdirectory within Chapter 2 directory.
 
 ## Figure 5 
 
