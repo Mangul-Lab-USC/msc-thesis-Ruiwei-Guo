@@ -1,8 +1,8 @@
-## Origin chapter3_metadata(2).ipynb
+## chapter3_metadata(2).ipynb
 This Jupyter Notebook file contains Python code used to process CSV file and produce figures in Chapter 3.\
 The CSV file is available in **results** directory.\
-Figures are available in **figures** directory.
-## Content
+Figures are available in **figures** directory.\
+\
 The file contains following sections:\
 Overall completeness of metadata - import CSV file along with necessary packages, convert file to pandas dataframe. Python code to reproduce Figure 9\
 The overall completeness of metadata accompanying therapeutic fields - Python code to reproduce Figure 10\
