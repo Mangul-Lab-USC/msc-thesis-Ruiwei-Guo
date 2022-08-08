@@ -1,4 +1,4 @@
-These figures were generated from
+These chapter3_metadata (2).ipynb
 
 ## Figure 9 & Figure 10
 Overally, the availability of metadata information in the samplesis 72.8% and it was shown in figure 9. According to the results, the phenotypes for disease condition and organism are 100%, which are the most completely shared, followed by the tissue type which is 99.3%, age which is 89.1%, and sex which is 89.1%. The least complete metadata information is the mortality rate which is 32.7%, while the clinical severity is 48.9%. And it is shown in figure 10. 
