@@ -3,7 +3,7 @@ This Jupyter Notebook file contains Python code used to process CSV file and pro
 The CSV file is available in **results** directory.\
 Figures are available in **figures** directory.
 ## Content
-The file contains following sections:
+The file contains following sections:\
 import the data - import CSV file along with necessary packages, convert file to pandas dataframe.\
 Convert Yes, No, etc. to integer values - convert variables Yes/No to integers 1/0\
 Convert journals names to standard format - convert journals names to standard format\
