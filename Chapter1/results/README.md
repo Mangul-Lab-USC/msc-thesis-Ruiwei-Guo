@@ -3,7 +3,7 @@ The file was generated from a Python script utilizing the package ElementTree to
 ## Content
 **PMC_ID** -  Unique ID of the publication\
 **PMC_Year** - Year of publication\
-**Journal**\
+**Journal** - Journal of publication\
 **Article Title**\
 **Secondary analysis** - ?\
 **Data availability statement (yes/no)** - if the authors claim that data is available(yes/no)\
