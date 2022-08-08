@@ -3,7 +3,7 @@ This Jupyter Notebook file contains Python code used to process CSV file and pro
 The CSV file is available in **results** directory.\
 Figures are available in **figures** directory.
 ## Content
-The file contains following sections:
+The file contains following sections:\
 Overall completeness of metadata - import CSV file along with necessary packages, convert file to pandas dataframe. Python code to reproduce Figure 9\
 The overall completeness of metadata accompanying therapeutic fields - Python code to reproduce Figure 10\
 Overal metadata completeness - Python code to reproduce Figure 10\
