@@ -5,8 +5,8 @@ The file was generated from a Python script utilizing the package ElementTree to
 **PMC_Year** - Year of publication\
 **Journal** - Journal of publication\ 
 **Article Title**\
-**Secondary analysis**\ - ?
-**Data availability statement (yes/no)**\ - if the authors claim that data is available(yes/no)
+**Secondary analysis** - ?\
+**Data availability statement (yes/no)** - if the authors claim that data is available(yes/no)\
 Data availability (yes/no)\
 "If Data availability = yes, where do they share data? (SRA/GEO/other)"\
 "If other database, specifiy which one",Code availability statement (Yes/No)\
