@@ -1,7 +1,7 @@
 ## Origin
 The file was generated from a Python script utilizing the package ElementTree to systematically extract publication metadata from XML files from the PMC open-access corpus for eight unique journals ranging from the year 2016 to 2021 including commercial and non-commercial use subsets. The Python script and XML files are not available.
 ## Content
-Below is a complete list of columns, some of them are explained to avoid confusion.
+Below is a complete list of columns, some of them are explained to avoid confusion.\
 **PMC_ID** -  Unique ID of the publication\
 **PMC_Year** - Year of publication\
 **Journal** - Journal of publication\
