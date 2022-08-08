@@ -11,4 +11,4 @@ completeness of metadata - Python code to reproduce Figure 11\
 completeness of metadata across 9 phenotypes -  Python code to reproduce Figure 12 & Figure 13\
 
 ## get_xml_files.py
-##
+## pull_metadata.py
