@@ -11,4 +11,4 @@ Convert code repository names to standard format - convert code repository names
 Data availability - Python code to reproduce Figure 1\
 Data availability by repository - Python code to reproduce Figure 2\
 Data sharing by journal - Python code to reproduce Figure 3\
-Yearly trend of sharing data - Python code to reproduce Figure 4\
+Yearly trend of sharing data - Python code to reproduce Figure 4
