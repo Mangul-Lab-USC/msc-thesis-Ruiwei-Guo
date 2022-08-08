@@ -26,6 +26,10 @@ msc-thesis-Ruiwei-Guo
 │   │   ├── Data_CDAP_Jan22-Main_copy1.csv
 │   │   └── README.md
 │   └── figures
+│       ├── Figure1.png
+│       ├── Figure2.png
+│       ├── Figure3.png
+│       ├── Figure4.png
 │       └── README.md
 ├─── Chapter 2
 │   ├── code 
@@ -35,6 +39,10 @@ msc-thesis-Ruiwei-Guo
 │   │   ├── Data_CDAP_Jan22-Main_copy1.csv
 │   │   └── README.md
 │   └── figures
+│       ├── Figure5.png
+│       ├── Figure6.png
+│       ├── Figure7.png
+│       ├── Figure8.png
 │       └── README.md
 ├─── Chapter 3 
 │   ├── code 
@@ -46,6 +54,13 @@ msc-thesis-Ruiwei-Guo
 │   │   ├── Metadata_Summary_Table.xlsx
 │   │   └── README.md
 │   └── figures
+│       ├── Figure9.png
+│       ├── Figure10.png
+│       ├── Figure11.png
+│       ├── Figure12.png
+│       ├── Figure13_a.png
+│       ├── Figure13_b.png
+│       ├── Figure13_c.png
 │       └── README.md
 └── README.md
 
