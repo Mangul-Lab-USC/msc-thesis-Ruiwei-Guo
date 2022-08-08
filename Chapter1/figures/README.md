@@ -1,4 +1,4 @@
-These figures were generated from
+These figures were generated from Jupyter Notebook file chapter1_data_availability.ipynb available at code subdirectory within Chapter 1 directory.
 
 ## Figure 1
 Eight prominent biomedical journals were chosen and 12,603 publications from 2016 to 2021 were selected and retrieved from the PubMed Central open access corpus. Then, 10 articles were randomly selected from these 8 journals from each year of 2016 to 2021 and a subset of 480 articles was obtained. In figure 1, it is shown that data sharing practices across the manuscripts conducting primary analyses indicated that 17% of the biomedical research articles share raw data. Research papers conducting secondary analyses were not taken into consideration for raw data availability. 
