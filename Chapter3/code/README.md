@@ -9,6 +9,7 @@ The overall completeness of metadata accompanying therapeutic fields - Python co
 Overal metadata completeness - Python code to reproduce Figure 10\
 completeness of metadata - Python code to reproduce Figure 11\
 completeness of metadata across 9 phenotypes -  Python code to reproduce Figure 12 & Figure 13\
-
 ## get_xml_files.py
+There is a file called "Sepsis" from Mangul lab. I copied and pasted it.
 ## pull_metadata.py
+There is a file called "Sepsis" from Mangul lab.
