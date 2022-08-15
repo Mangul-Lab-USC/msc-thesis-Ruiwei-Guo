@@ -10,6 +10,6 @@ Overal metadata completeness - Python code to reproduce Figure 10\
 completeness of metadata - Python code to reproduce Figure 11\
 completeness of metadata across 9 phenotypes -  Python code to reproduce Figure 12 & Figure 13\
 ## get_xml_files.py
-There is a file called "Sepsis" from Mangul lab. I copied and pasted it.
+In this chapter, there are six disease conditions that were taken into consideration and the test model was generalized from our previous meta-analysis of sepsis cohorts.There is a file called "Sepsis" from Dr. Mangul lab. I copied and pasted it.
 ## pull_metadata.py
-There is a file called "Sepsis" from Mangul lab.
+There is a file called "Sepsis" from Dr. Mangul lab.
