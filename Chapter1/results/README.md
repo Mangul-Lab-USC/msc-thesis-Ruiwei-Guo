@@ -16,7 +16,7 @@ Below is a complete list of columns, some of them are explained to avoid confusi
 11.**Code availability (Yes/No (reason))**  - data availability de facto (yes/no)(reason)\
 12.**Code availability (Yes/No)**\
 13.**"If Code availability = yes, What kind of code do they share?"**\
-14.**"If Code availability = yes, where do they share code (supplementary/ GitHub/ other)"**\
+14.**"If Code availability = yes, where do they share code (supplementary/ GitHub/ Zenodo/ CRAN/ GitLab/ Bitbucket/ Other)"**\
 15.**"If Code availability = yes, do they share the code as notebook or R markdown file (.Rmd)? (yes/no)"**\
 16.**"If yes, notebook/Rmd"**\
 17.**"If yes, single/ multiple"**\
