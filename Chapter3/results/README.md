@@ -21,7 +21,7 @@ publication and repository separately.\
 <b>Sepsis</b>\
 The Sepsis sheet demonstrates the overall completeness of 9 phenotypes (disease
 condition, age, organism, sex, tissue, country, ethnicity, mortality and clinical severity) in
-the disease Sepsis in publication and repository.
+the disease Sepsis in publication and repository.\
 \
 <b>AD</b>\
 The AD sheet demonstrates the overall completeness of 8 phenotypes (disease
