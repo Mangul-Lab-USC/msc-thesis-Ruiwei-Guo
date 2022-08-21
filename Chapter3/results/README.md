@@ -5,20 +5,20 @@ The Summary sheet describes all the metadata information in Sepsis study, and it
 contains clinical severity, age, disease condition, organism, sex, tissue type, ethnicity,
 country, mortality rate information.\
 \
-<b>Copy of Summary:</b>\
+<b>Copy of Summary</b>\
 The Copy of Summary sheet describes all the metadata information in 8 disease types
 (Sepsis, Alzheimer’s Disease, Acute Myeloid Leukemia, Tuberculosis, Inflammatory
 Bowel Disease, Cardiovascular Disease) and it has the information of clinical severity,
 age, disease condition, organism, sex, tissue type, ethnicity, country, mortality rate.\
 \
-<b>Sample:</b>\
+<b>Sample</b>\
 The Sample sheet collects all the samples from 8 disease types (Sepsis, Alzheimer’s
 Disease, Acute Myeloid Leukemia, Tuberculosis, Inflammatory Bowel Disease,
 Cardiovascular Disease) and it gives information of the samples ’clinical severity, age,
 disease condition, organism, sex, tissue type, ethnicity, country, mortality rate in
 publication and repository separately.\
 \
-<b>Sepsis:</b>\
+<b>Sepsis</b>\
 The Sepsis sheet demonstrates the overall completeness of 9 phenotypes (disease
 condition, age, organism, sex, tissue, country, ethnicity, mortality and clinical severity) in
 the disease Sepsis in publication and repository.
