@@ -1,6 +1,6 @@
 ## Content
 
-<b>Summary</b>
+<b>Summary</b>\
 The Summary sheet describes all the metadata information in Sepsis study, and it
 contains clinical severity, age, disease condition, organism, sex, tissue type, ethnicity,
 country, mortality rate information.\
