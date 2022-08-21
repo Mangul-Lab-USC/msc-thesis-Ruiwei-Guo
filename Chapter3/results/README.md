@@ -3,7 +3,7 @@
 <b>Summary</b>
 The Summary sheet describes all the metadata information in Sepsis study, and it
 contains clinical severity, age, disease condition, organism, sex, tissue type, ethnicity,
-country, mortality rate information.
+country, mortality rate information.\
 Copy of Summary:
 The Copy of Summary sheet describes all the metadata information in 8 disease types
 (Sepsis, Alzheimer’s Disease, Acute Myeloid Leukemia, Tuberculosis, Inflammatory
